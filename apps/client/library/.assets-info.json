@@ -1,0 +1,986 @@
+{
+  "version": "1.0.1",
+  "map": {
+    "resources": {
+      "time": 1767712649574.2666,
+      "uuid": "361398e8-25a2-4476-a5dd-833ff68e087b"
+    },
+    "Scripts": {
+      "time": 1767712631221.9114,
+      "uuid": "a5ff1131-2769-49ad-92d3-4d7f4b7c2b24"
+    },
+    "resources\\texture": {
+      "time": 1767685787763.094,
+      "uuid": "d7f1d6a2-3440-4dbb-aab0-6217739e019d"
+    },
+    "Scripts\\Base": {
+      "time": 1767676601065.0986,
+      "uuid": "b9842cc1-d805-42af-b6b9-b15d5dd32f65"
+    },
+    "Scripts\\Enum": {
+      "time": 1767676601081.098,
+      "uuid": "5b95c11b-0954-45ac-99ba-98df4825c906"
+    },
+    "Scripts\\Global": {
+      "time": 1767962636001.295,
+      "uuid": "6262be8a-effd-4208-89cd-6532b055b4a0"
+    },
+    "Scripts\\Utils": {
+      "time": 1767676601096.729,
+      "uuid": "f395bd07-24d1-424e-bf3c-3276de3d9d22"
+    },
+    "resources\\texture\\bg": {
+      "time": 1767685787763.094,
+      "uuid": "36488b93-05fd-4191-af7b-297d24da5847"
+    },
+    "resources\\texture\\bullet": {
+      "time": 1767676601239.3884,
+      "uuid": "a0a010bb-d1c0-4efa-a55f-ee60438f492e"
+    },
+    "resources\\texture\\explosion": {
+      "time": 1767676601271.0132,
+      "uuid": "fe6330d8-92bb-4d96-a162-30010e542247"
+    },
+    "resources\\texture\\joystick": {
+      "time": 1767676601286.7515,
+      "uuid": "b2041c87-dac4-445e-a3ac-e6689804c3b4"
+    },
+    "resources\\texture\\weapon": {
+      "time": 1767676601336.2002,
+      "uuid": "c3b32cc3-fa22-4efd-a481-c5876d5cced3"
+    },
+    "resources\\texture\\bullet\\bullet1": {
+      "time": 1767676601239.3884,
+      "uuid": "fd66628c-bd95-4709-ab7d-a050731228e4"
+    },
+    "resources\\texture\\bullet\\bullet2": {
+      "time": 1767676601255.6406,
+      "uuid": "7bc2b36a-1f9e-4c27-b679-7f78f1b9d8ed"
+    },
+    "resources\\texture\\weapon\\weapon1": {
+      "time": 1767676601328.225,
+      "uuid": "fb8659d0-2770-4f82-bfb4-2bd2c183f241"
+    },
+    "resources\\texture\\weapon\\weapon2": {
+      "time": 1767676601366.04,
+      "uuid": "7249fc9e-d7c5-4ecf-b450-99ae0a17c417"
+    },
+    "resources\\texture\\weapon\\weapon1\\attack": {
+      "time": 1767676601324.5496,
+      "uuid": "0ed73ab4-b2c1-4624-a5b8-c5f31394d8fa"
+    },
+    "resources\\texture\\weapon\\weapon1\\idle": {
+      "time": 1767676601332.1284,
+      "uuid": "7b876fea-1bd1-41a0-93a8-bd20d64d7bc3"
+    },
+    "resources\\texture\\weapon\\weapon2\\attack": {
+      "time": 1767676601349.9849,
+      "uuid": "b82f00e2-ef64-4845-9455-b855caa49483"
+    },
+    "resources\\texture\\weapon\\weapon2\\idle": {
+      "time": 1767676601366.04,
+      "uuid": "6248c4f2-da4b-42af-99f1-a929b1c32404"
+    },
+    "Scripts\\Base\\EntityManager.ts": {
+      "time": 1767809795144.3613,
+      "uuid": "2e4eed53-d1b9-42ef-97aa-8d0a8da927f7"
+    },
+    "Scripts\\Base\\Singleton.ts": {
+      "time": 1767676601037.112,
+      "uuid": "0ee5b84a-8971-410f-a39d-2cf96597dd45"
+    },
+    "Scripts\\Base\\State.ts": {
+      "time": 1767676601047.6235,
+      "uuid": "226c1921-1459-4764-82e6-b1a11c5a73c2"
+    },
+    "Scripts\\Base\\StateMachine.ts": {
+      "time": 1767809400147.299,
+      "uuid": "66538d45-0fcf-4ed2-8e47-a0a688ddaf3c"
+    },
+    "Scripts\\Base\\StateMachineTemplate.ts": {
+      "time": 1767801125820.0735,
+      "uuid": "ff33a799-6908-4d1d-902b-f36aec10d4de"
+    },
+    "Scripts\\Base\\SubStateMachine.ts": {
+      "time": 1767676601065.0986,
+      "uuid": "7f9fac71-9820-41b2-8b4d-2dc4185414ef"
+    },
+    "Scripts\\Enum\\index.ts": {
+      "time": 1768070490705.0088,
+      "uuid": "393286c2-7b09-44d1-955f-049e7e5b36ea"
+    },
+    "Scripts\\Global\\DataManager.ts": {
+      "time": 1768128626296.245,
+      "uuid": "1682ed16-4e4f-46b3-8aca-92baecd30b9d"
+    },
+    "Scripts\\Global\\EventManager.ts": {
+      "time": 1767676601081.098,
+      "uuid": "2aa2e7de-b014-4ee7-a537-4bc99dbf9164"
+    },
+    "Scripts\\Global\\ResourceManager.ts": {
+      "time": 1767676601096.729,
+      "uuid": "6278727d-3641-46d1-ae43-52b7829402d1"
+    },
+    "Scripts\\Utils\\index.ts": {
+      "time": 1768125869158.4756,
+      "uuid": "2e280f2e-52a3-465a-acf5-fb412ef51d6b"
+    },
+    "resources\\texture\\bg\\tile.png": {
+      "time": 1767676601228.9414,
+      "uuid": "155ebd7e-9357-4155-acfc-fb5438af3d48"
+    },
+    "resources\\texture\\explosion\\explosion (1).png": {
+      "time": 1767676601255.6406,
+      "uuid": "2c4e3bb3-7336-4d4e-a8d7-3eafa95d846f"
+    },
+    "resources\\texture\\explosion\\explosion (2).png": {
+      "time": 1767676601255.6406,
+      "uuid": "0d43b4ea-a63d-4ebd-a25b-a93f85f86af4"
+    },
+    "resources\\texture\\explosion\\explosion (3).png": {
+      "time": 1767676601255.6406,
+      "uuid": "69cdfa26-ab4f-4836-a719-5cbfdd4ce626"
+    },
+    "resources\\texture\\explosion\\explosion (4).png": {
+      "time": 1767676601271.0132,
+      "uuid": "d0e55505-9d16-4c58-8769-69427fb8c951"
+    },
+    "resources\\texture\\explosion\\explosion (5).png": {
+      "time": 1767676601271.0132,
+      "uuid": "facbf03e-9de3-43de-a995-1888b494e0b9"
+    },
+    "resources\\texture\\explosion\\explosion (6).png": {
+      "time": 1767676601271.0132,
+      "uuid": "f325e61c-afa9-4bed-a69d-bd8835d78629"
+    },
+    "resources\\texture\\explosion\\explosion (7).png": {
+      "time": 1767676601271.0132,
+      "uuid": "22cdc5d6-72e9-4c27-aaab-d8702321c131"
+    },
+    "resources\\texture\\joystick\\circle.png": {
+      "time": 1767676601271.0132,
+      "uuid": "d9e82fae-bcb5-4fed-82a9-fbed98c5e079"
+    },
+    "resources\\texture\\bullet\\bullet1\\bullet1 (1).png": {
+      "time": 1767676601239.3884,
+      "uuid": "23c36f17-b533-41fc-ada4-4c3408ec5597"
+    },
+    "resources\\texture\\bullet\\bullet2\\bullet2 (1).png": {
+      "time": 1767676601255.6406,
+      "uuid": "c15456b3-2df6-44f1-bb74-5fec2d554675"
+    },
+    "resources\\texture\\weapon\\weapon1\\attack\\attack (1).png": {
+      "time": 1767676601302.4917,
+      "uuid": "2c2efb05-aaa7-4c95-8186-f16a448171aa"
+    },
+    "resources\\texture\\weapon\\weapon1\\attack\\attack (2).png": {
+      "time": 1767676601302.4917,
+      "uuid": "d66a025a-0288-4cc4-88dd-7e3f5d75feef"
+    },
+    "resources\\texture\\weapon\\weapon1\\attack\\attack (3).png": {
+      "time": 1767676601302.4917,
+      "uuid": "bb13c3df-251c-4b9b-a7e9-520ef89b6be6"
+    },
+    "resources\\texture\\weapon\\weapon1\\attack\\attack (4).png": {
+      "time": 1767676601315.5264,
+      "uuid": "717f9b68-fbe2-4f31-ac87-476fa2875f1e"
+    },
+    "resources\\texture\\weapon\\weapon1\\attack\\attack (5).png": {
+      "time": 1767676601318.535,
+      "uuid": "ee283844-4937-4d21-9cb2-41e66321215a"
+    },
+    "resources\\texture\\weapon\\weapon1\\attack\\attack (6).png": {
+      "time": 1767676601320.5398,
+      "uuid": "438fb15a-1e67-4cea-b018-940687e073b4"
+    },
+    "resources\\texture\\weapon\\weapon1\\attack\\attack (7).png": {
+      "time": 1767676601324.5496,
+      "uuid": "05abc781-c414-41cf-8961-6a28a689e011"
+    },
+    "resources\\texture\\weapon\\weapon1\\idle\\idle (1).png": {
+      "time": 1767676601328.225,
+      "uuid": "f815a77d-5654-4a6a-86ef-be8f1efaa95e"
+    },
+    "resources\\texture\\weapon\\weapon2\\attack\\attack (1).png": {
+      "time": 1767676601343.651,
+      "uuid": "b2fd4156-6559-4260-800e-fa0cc22a8d50"
+    },
+    "resources\\texture\\weapon\\weapon2\\attack\\attack (2).png": {
+      "time": 1767676601348.2373,
+      "uuid": "c981c147-7e05-464f-a119-287ba2173e76"
+    },
+    "resources\\texture\\weapon\\weapon2\\attack\\attack (3).png": {
+      "time": 1767676601349.9849,
+      "uuid": "290e9ccf-fcf7-4de1-9fbd-087f099ff28a"
+    },
+    "resources\\texture\\weapon\\weapon2\\attack\\attack (4).png": {
+      "time": 1767676601349.9849,
+      "uuid": "57693857-efef-407b-b05a-3fa03e2c15a1"
+    },
+    "resources\\texture\\weapon\\weapon2\\attack\\attack (5).png": {
+      "time": 1767676601349.9849,
+      "uuid": "037bbd7b-863b-458a-9e82-af4344212b37"
+    },
+    "resources\\texture\\weapon\\weapon2\\attack\\attack (6).png": {
+      "time": 1767676601349.9849,
+      "uuid": "fc7dd2b7-952e-4374-ae20-12b482325942"
+    },
+    "resources\\texture\\weapon\\weapon2\\attack\\attack (7).png": {
+      "time": 1767676601349.9849,
+      "uuid": "20184d5d-69fc-4bd1-9ba7-c556a212397d"
+    },
+    "resources\\texture\\weapon\\weapon2\\idle\\idle (1).png": {
+      "time": 1767676601366.04,
+      "uuid": "d6c248fd-c31d-475f-948a-be099aca55d3"
+    },
+    "resources.meta": {
+      "time": 1767676822806.0554
+    },
+    "Scripts.meta": {
+      "time": 1767676822821.7383
+    },
+    "resources\\texture.meta": {
+      "time": 1767676822821.7383
+    },
+    "Scripts\\Base.meta": {
+      "time": 1767676822821.7383
+    },
+    "Scripts\\Enum.meta": {
+      "time": 1767676822821.7383
+    },
+    "Scripts\\Global.meta": {
+      "time": 1767676822837.486
+    },
+    "Scripts\\Utils.meta": {
+      "time": 1767676822837.486
+    },
+    "resources\\texture\\bg.meta": {
+      "time": 1767676822853.1353
+    },
+    "resources\\texture\\bullet.meta": {
+      "time": 1767676822853.1353
+    },
+    "resources\\texture\\explosion.meta": {
+      "time": 1767676822869.0818
+    },
+    "resources\\texture\\joystick.meta": {
+      "time": 1767676822869.0818
+    },
+    "resources\\texture\\weapon.meta": {
+      "time": 1767676822869.0818
+    },
+    "resources\\texture\\bullet\\bullet1.meta": {
+      "time": 1767676822884.7224
+    },
+    "resources\\texture\\bullet\\bullet2.meta": {
+      "time": 1767676822900.7034
+    },
+    "resources\\texture\\weapon\\weapon1.meta": {
+      "time": 1767676822900.7034
+    },
+    "resources\\texture\\weapon\\weapon2.meta": {
+      "time": 1767676822900.7034
+    },
+    "resources\\texture\\weapon\\weapon1\\attack.meta": {
+      "time": 1767676822945.0925
+    },
+    "resources\\texture\\weapon\\weapon1\\idle.meta": {
+      "time": 1767676822945.0925
+    },
+    "resources\\texture\\weapon\\weapon2\\attack.meta": {
+      "time": 1767676822945.0925
+    },
+    "resources\\texture\\weapon\\weapon2\\idle.meta": {
+      "time": 1767676822960.8218
+    },
+    "Scripts\\Base\\EntityManager.ts.meta": {
+      "time": 1767676822976.7007
+    },
+    "Scripts\\Base\\Singleton.ts.meta": {
+      "time": 1767676822976.7007
+    },
+    "Scripts\\Base\\State.ts.meta": {
+      "time": 1767676822992.3733
+    },
+    "Scripts\\Base\\StateMachine.ts.meta": {
+      "time": 1767676822992.3733
+    },
+    "Scripts\\Base\\StateMachineTemplate.ts.meta": {
+      "time": 1767676822992.3733
+    },
+    "Scripts\\Base\\SubStateMachine.ts.meta": {
+      "time": 1767676823023.7517
+    },
+    "Scripts\\Enum\\index.ts.meta": {
+      "time": 1767676823023.7517
+    },
+    "Scripts\\Global\\DataManager.ts.meta": {
+      "time": 1767676823023.7517
+    },
+    "Scripts\\Global\\EventManager.ts.meta": {
+      "time": 1767676823039.692
+    },
+    "Scripts\\Global\\ResourceManager.ts.meta": {
+      "time": 1767676823039.692
+    },
+    "Scripts\\Utils\\index.ts.meta": {
+      "time": 1767676823055.478
+    },
+    "resources\\texture\\bg\\tile.png.meta": {
+      "time": 1767676823118.8618
+    },
+    "resources\\texture\\explosion\\explosion (2).png.meta": {
+      "time": 1767676823134.5312
+    },
+    "resources\\texture\\explosion\\explosion (3).png.meta": {
+      "time": 1767676823134.5312
+    },
+    "resources\\texture\\explosion\\explosion (1).png.meta": {
+      "time": 1767676823134.5312
+    },
+    "resources\\texture\\explosion\\explosion (4).png.meta": {
+      "time": 1767676823150.2944
+    },
+    "resources\\texture\\explosion\\explosion (5).png.meta": {
+      "time": 1767676823213.817
+    },
+    "resources\\texture\\explosion\\explosion (6).png.meta": {
+      "time": 1767676823229.4705
+    },
+    "resources\\texture\\explosion\\explosion (7).png.meta": {
+      "time": 1767676823229.4705
+    },
+    "resources\\texture\\bullet\\bullet1\\bullet1 (1).png.meta": {
+      "time": 1767676823261.1973
+    },
+    "resources\\texture\\joystick\\circle.png.meta": {
+      "time": 1767676823261.1973
+    },
+    "resources\\texture\\bullet\\bullet2\\bullet2 (1).png.meta": {
+      "time": 1767676823325.038
+    },
+    "resources\\texture\\weapon\\weapon1\\attack\\attack (1).png.meta": {
+      "time": 1767676823751.1843
+    },
+    "resources\\texture\\weapon\\weapon1\\attack\\attack (2).png.meta": {
+      "time": 1767676823766.9878
+    },
+    "resources\\texture\\weapon\\weapon1\\attack\\attack (3).png.meta": {
+      "time": 1767676823782.6577
+    },
+    "resources\\texture\\weapon\\weapon1\\attack\\attack (4).png.meta": {
+      "time": 1767676823782.6577
+    },
+    "resources\\texture\\weapon\\weapon1\\attack\\attack (5).png.meta": {
+      "time": 1767676823798.3042
+    },
+    "resources\\texture\\weapon\\weapon1\\attack\\attack (6).png.meta": {
+      "time": 1767676823845.6277
+    },
+    "resources\\texture\\weapon\\weapon1\\attack\\attack (7).png.meta": {
+      "time": 1767676823861.4243
+    },
+    "resources\\texture\\weapon\\weapon2\\attack\\attack (1).png.meta": {
+      "time": 1767676823877.2227
+    },
+    "resources\\texture\\weapon\\weapon1\\idle\\idle (1).png.meta": {
+      "time": 1767676823877.2227
+    },
+    "resources\\texture\\weapon\\weapon2\\attack\\attack (2).png.meta": {
+      "time": 1767676823893.0676
+    },
+    "resources\\texture\\weapon\\weapon2\\attack\\attack (3).png.meta": {
+      "time": 1767676823988.0967
+    },
+    "resources\\texture\\weapon\\weapon2\\attack\\attack (4).png.meta": {
+      "time": 1767676824003.7732
+    },
+    "resources\\texture\\weapon\\weapon2\\attack\\attack (6).png.meta": {
+      "time": 1767676824003.7732
+    },
+    "resources\\texture\\weapon\\weapon2\\attack\\attack (7).png.meta": {
+      "time": 1767676824003.7732
+    },
+    "resources\\texture\\weapon\\weapon2\\attack\\attack (5).png.meta": {
+      "time": 1767676824019.741
+    },
+    "resources\\texture\\weapon\\weapon2\\idle\\idle (1).png.meta": {
+      "time": 1767676824082.9038
+    },
+    "Scripts\\Common.meta": {
+      "time": 1767685128016.541
+    },
+    "Scripts\\Common\\index.ts.meta": {
+      "time": 1767685128020.542
+    },
+    "Scripts\\Common": {
+      "time": 1768127920268.1797,
+      "uuid": "8e37b6bc-ecf9-4b0a-888b-12996eb1e2f5"
+    },
+    "Scripts\\Common\\index.ts": {
+      "time": 1768127498338.1765,
+      "uuid": "2a7bdf4b-b85b-43ee-b69d-7f801d03ca83"
+    },
+    "Scene.meta": {
+      "time": 1767685141987.59
+    },
+    "Scene": {
+      "time": 1768064007314.7852,
+      "uuid": "c09a1c34-e46c-496e-a2a4-0bb07e6ccc20"
+    },
+    "Scene\\Battle.scene.meta": {
+      "time": 1767685150667.9827
+    },
+    "Scene\\Battle.scene": {
+      "time": 1769663197651.6543,
+      "uuid": "3adb0617-21c0-45fd-9b81-08373a7ecc72"
+    },
+    "resources\\texture\\actor.meta": {
+      "time": 1767676822837.486
+    },
+    "resources\\texture\\actor\\actor1.meta": {
+      "time": 1767676822869.0818
+    },
+    "resources\\texture\\actor\\actor2.meta": {
+      "time": 1767676822884.7224
+    },
+    "resources\\texture\\actor\\actor1\\idle.meta": {
+      "time": 1767676822916.6887
+    },
+    "resources\\texture\\actor\\actor1\\run.meta": {
+      "time": 1767676822916.6887
+    },
+    "resources\\texture\\actor": {
+      "time": 1767676601176.0598,
+      "uuid": "4314662e-d411-4396-bd0a-ce13820a5745"
+    },
+    "resources\\texture\\actor\\actor1": {
+      "time": 1767676601159.9526,
+      "uuid": "458c6587-cf17-4ea1-8816-5319ffa4bec0"
+    },
+    "resources\\texture\\actor\\actor2": {
+      "time": 1767676601209.4526,
+      "uuid": "d539fe31-35be-459b-af9e-b1c5ce8049dd"
+    },
+    "resources\\texture\\actor\\actor1\\idle": {
+      "time": 1767676601144.0168,
+      "uuid": "771d5be3-e4c5-43c9-9025-da4338f0bd9c"
+    },
+    "resources\\texture\\actor\\actor1\\run": {
+      "time": 1767676601176.0598,
+      "uuid": "977efd2e-276e-4c70-81c1-e539532a595b"
+    },
+    "resources\\texture\\actor\\actor2\\idle.meta": {
+      "time": 1767676822935.202
+    },
+    "resources\\texture\\actor\\actor2\\idle": {
+      "time": 1767676601207.5847,
+      "uuid": "a2fc4f9e-f98d-42df-b47c-42c5d6c60eb4"
+    },
+    "resources\\texture\\actor\\actor2\\run.meta": {
+      "time": 1767676822940.0527
+    },
+    "resources\\texture\\actor\\actor2\\run": {
+      "time": 1767676601228.9414,
+      "uuid": "c957e484-e081-4832-a24d-6541bd2f40d4"
+    },
+    "resources\\texture\\actor\\actor1\\idle\\idle (3).png.meta": {
+      "time": 1767676823341.0398
+    },
+    "resources\\texture\\actor\\actor1\\idle\\idle (3).png": {
+      "time": 1767676601144.0168,
+      "uuid": "fbd2f8e1-fcfb-4833-88f6-1d2aabc7d208"
+    },
+    "resources\\texture\\actor\\actor1\\idle\\idle (2).png.meta": {
+      "time": 1767676823325.038
+    },
+    "resources\\texture\\actor\\actor1\\idle\\idle (2).png": {
+      "time": 1767676601144.0168,
+      "uuid": "948973f1-d0d7-4009-a6ac-b75d81682b06"
+    },
+    "resources\\texture\\actor\\actor1\\idle\\idle (4).png.meta": {
+      "time": 1767676823341.0398
+    },
+    "resources\\texture\\actor\\actor1\\idle\\idle (4).png": {
+      "time": 1767676601144.0168,
+      "uuid": "3f793c28-7ba4-49a0-8bfd-f39c447a3d24"
+    },
+    "resources\\texture\\actor\\actor1\\idle\\idle (1).png.meta": {
+      "time": 1767676823308.968
+    },
+    "resources\\texture\\actor\\actor1\\idle\\idle (1).png": {
+      "time": 1767676601129.9797,
+      "uuid": "f0f5e564-2d98-4de1-bb92-794eeb1acffc"
+    },
+    "resources\\texture\\actor\\actor1\\idle\\idle (5).png.meta": {
+      "time": 1767676823388.2944
+    },
+    "resources\\texture\\actor\\actor1\\idle\\idle (5).png": {
+      "time": 1767676601144.0168,
+      "uuid": "48566660-84d3-45f0-9779-232d13bba3b4"
+    },
+    "resources\\texture\\actor\\actor1\\idle\\idle (6).png.meta": {
+      "time": 1767676823404.0752
+    },
+    "resources\\texture\\actor\\actor1\\idle\\idle (6).png": {
+      "time": 1767676601144.0168,
+      "uuid": "1c6c1425-ca03-45c3-b9b3-01ad71034032"
+    },
+    "resources\\texture\\actor\\actor1\\run\\run (2).png.meta": {
+      "time": 1767676823435.5464
+    },
+    "resources\\texture\\actor\\actor1\\run\\run (2).png": {
+      "time": 1767676601159.9526,
+      "uuid": "38dbf9d6-4b70-4898-a328-ae498501ddbd"
+    },
+    "resources\\texture\\actor\\actor1\\run\\run (4).png.meta": {
+      "time": 1767676823482.8694
+    },
+    "resources\\texture\\actor\\actor1\\run\\run (4).png": {
+      "time": 1767676601159.9526,
+      "uuid": "06848286-3132-4ffa-bd9c-eba5eefd6ffe"
+    },
+    "resources\\texture\\actor\\actor1\\run\\run (3).png.meta": {
+      "time": 1767676823419.8467
+    },
+    "resources\\texture\\actor\\actor1\\run\\run (3).png": {
+      "time": 1767676601159.9526,
+      "uuid": "07c0120a-620d-4d1d-b128-a2ffebffb96b"
+    },
+    "resources\\texture\\actor\\actor1\\run\\run (1).png.meta": {
+      "time": 1767676823404.0752
+    },
+    "resources\\texture\\actor\\actor1\\run\\run (1).png": {
+      "time": 1767676601159.9526,
+      "uuid": "030f870c-7083-4e63-af9c-0c8e4406b231"
+    },
+    "resources\\texture\\actor\\actor1\\run\\run (5).png.meta": {
+      "time": 1767676823498.5542
+    },
+    "resources\\texture\\actor\\actor1\\run\\run (5).png": {
+      "time": 1767676601159.9526,
+      "uuid": "b545a1fc-5a8d-4b87-9f08-58193ef8f8a3"
+    },
+    "resources\\texture\\actor\\actor1\\run\\run (6).png.meta": {
+      "time": 1767676823530.1794
+    },
+    "resources\\texture\\actor\\actor1\\run\\run (6).png": {
+      "time": 1767676601176.0598,
+      "uuid": "98e36b14-a53b-4cdb-9787-4aac1911fa7c"
+    },
+    "resources\\texture\\actor\\actor2\\idle\\idle (1).png.meta": {
+      "time": 1767676823514.4485
+    },
+    "resources\\texture\\actor\\actor2\\idle\\idle (1).png": {
+      "time": 1767676601191.8037,
+      "uuid": "4bcec6e4-8ae3-4dc6-b680-230fb0e5cba1"
+    },
+    "resources\\texture\\actor\\actor2\\idle\\idle (2).png.meta": {
+      "time": 1767676823514.4485
+    },
+    "resources\\texture\\actor\\actor2\\idle\\idle (2).png": {
+      "time": 1767676601191.8037,
+      "uuid": "859e1dcd-5f25-46ce-bfb2-2fce53acd3ab"
+    },
+    "resources\\texture\\actor\\actor2\\idle\\idle (3).png.meta": {
+      "time": 1767676823577.6987
+    },
+    "resources\\texture\\actor\\actor2\\idle\\idle (3).png": {
+      "time": 1767676601191.8037,
+      "uuid": "8e5e2721-dd1b-4104-a176-e8724688e705"
+    },
+    "resources\\texture\\actor\\actor2\\idle\\idle (5).png.meta": {
+      "time": 1767676823593.4065
+    },
+    "resources\\texture\\actor\\actor2\\idle\\idle (5).png": {
+      "time": 1767676601191.8037,
+      "uuid": "42bedea5-98e7-4c7c-bba4-2733775c4d1b"
+    },
+    "resources\\texture\\actor\\actor2\\idle\\idle (4).png.meta": {
+      "time": 1767676823577.6987
+    },
+    "resources\\texture\\actor\\actor2\\idle\\idle (4).png": {
+      "time": 1767676601191.8037,
+      "uuid": "ad1888b4-e372-4e48-bbeb-5f33b0fb50bf"
+    },
+    "resources\\texture\\actor\\actor2\\idle\\idle (6).png.meta": {
+      "time": 1767676823593.4065
+    },
+    "resources\\texture\\actor\\actor2\\idle\\idle (6).png": {
+      "time": 1767676601191.8037,
+      "uuid": "a70a2ba8-14bc-4613-a6bf-e914fca9ae9a"
+    },
+    "resources\\texture\\actor\\actor2\\run\\run (1).png.meta": {
+      "time": 1767676823625.1697
+    },
+    "resources\\texture\\actor\\actor2\\run\\run (1).png": {
+      "time": 1767676601214.6216,
+      "uuid": "089afa87-f56d-4038-950c-0a3c3d625b43"
+    },
+    "resources\\texture\\actor\\actor2\\run\\run (2).png.meta": {
+      "time": 1767676823672.6753
+    },
+    "resources\\texture\\actor\\actor2\\run\\run (2).png": {
+      "time": 1767676601216.6252,
+      "uuid": "dde508f5-9208-42ee-aa19-e388489f0d5d"
+    },
+    "resources\\texture\\actor\\actor2\\run\\run (3).png.meta": {
+      "time": 1767676823672.6753
+    },
+    "resources\\texture\\actor\\actor2\\run\\run (3).png": {
+      "time": 1767676601216.6252,
+      "uuid": "547581ee-f0ef-4cc0-a168-1a821008dc00"
+    },
+    "resources\\texture\\actor\\actor2\\run\\run (4).png.meta": {
+      "time": 1767676823688.3423
+    },
+    "resources\\texture\\actor\\actor2\\run\\run (4).png": {
+      "time": 1767676601223.6384,
+      "uuid": "2f8cf8e1-92d9-422b-9ccb-444e0d7578e5"
+    },
+    "resources\\texture\\actor\\actor2\\run\\run (5).png.meta": {
+      "time": 1767676823688.3423
+    },
+    "resources\\texture\\actor\\actor2\\run\\run (5).png": {
+      "time": 1767676601223.6384,
+      "uuid": "ba54e885-1a08-47f1-b009-83b2763e209c"
+    },
+    "resources\\texture\\actor\\actor2\\run\\run (6).png.meta": {
+      "time": 1767676823719.686
+    },
+    "resources\\texture\\actor\\actor2\\run\\run (6).png": {
+      "time": 1767676601228.9414,
+      "uuid": "0ce683e1-3afe-44ff-b24f-0be7ae40e49a"
+    },
+    "Scripts\\UI.meta": {
+      "time": 1767685933364.8784
+    },
+    "Scripts\\UI": {
+      "time": 1768067982794.6023,
+      "uuid": "7c77faa9-bf22-43ce-a12f-6d91eca80d1a"
+    },
+    "Scripts\\UI\\JoyStickManager.ts.meta": {
+      "time": 1767685943046.8374
+    },
+    "Scripts\\UI\\JoyStickManager.ts": {
+      "time": 1767700609276.133,
+      "uuid": "6f6b94b6-3c9b-4c4c-8183-69d9a8bbbeca"
+    },
+    "Scripts\\Entity.meta": {
+      "time": 1767705915209.3865
+    },
+    "Scripts\\Scene.meta": {
+      "time": 1767705915210.39
+    },
+    "Scripts\\Common\\Status.ts.meta": {
+      "time": 1767705915213.3838
+    },
+    "Scripts\\Entity\\Actor.meta": {
+      "time": 1767705915210.39
+    },
+    "Scripts\\Scene\\BattleManager.ts.meta": {
+      "time": 1767705915213.3838
+    },
+    "Scripts\\Entity\\Actor\\ActorManager.ts.meta": {
+      "time": 1767705915214.3882
+    },
+    "Scripts\\Entity": {
+      "time": 1767870809533.9695,
+      "uuid": "86a8da75-de03-40dd-b371-a8e3a8310236"
+    },
+    "Scripts\\Scene": {
+      "time": 1768069732958.8047,
+      "uuid": "b8348cfa-041f-4601-b256-e49f7c71cd93"
+    },
+    "Scripts\\Entity\\Actor": {
+      "time": 1767798688487.5562,
+      "uuid": "9e1a2faa-8c66-4784-bb1f-74dbe50cb153"
+    },
+    "Scripts\\Common\\Status.ts": {
+      "time": 1767891103154.751,
+      "uuid": "431a7992-a317-47b8-9e6d-528ff619257c"
+    },
+    "Scripts\\Scene\\BattleManager.ts": {
+      "time": 1770641000950.88,
+      "uuid": "0cf3c3b5-d102-47c3-a3b3-a90852010b3c"
+    },
+    "Scripts\\Entity\\Actor\\ActorManager.ts": {
+      "time": 1768128787147.7712,
+      "uuid": "5adcb6f1-bc8f-4579-a870-c70e16397e98"
+    },
+    "Scripts\\Common\\Enum.ts.meta": {
+      "time": 1767711534238.9636
+    },
+    "Scripts\\Common\\Enum.ts": {
+      "time": 1768105042252.8396,
+      "uuid": "5db658ce-cc24-4490-b8ff-a1ef9e5cee88"
+    },
+    "Scripts\\Controller.meta": {
+      "time": 1767712631228.8547
+    },
+    "Scripts\\Controller\\BattleController.ts.meta": {
+      "time": 1767712631230.2554
+    },
+    "Scripts\\Controller": {
+      "time": 1767712631221.9114,
+      "uuid": "cee232d5-876e-4b5b-a650-f31aa7e8bea6"
+    },
+    "Scripts\\Controller\\BattleController.ts": {
+      "time": 1767970445192.5647,
+      "uuid": "e2e47af3-b8cc-43d7-bd63-050b5d9938ee"
+    },
+    "resources\\Prefab.meta": {
+      "time": 1767712649576.2595
+    },
+    "resources\\Prefab": {
+      "time": 1768068275981.301,
+      "uuid": "05d75b2b-af1b-49eb-831d-b424d9fe24d4"
+    },
+    "resources\\Prefab\\Map.prefab.meta": {
+      "time": 1767712655429.9062
+    },
+    "resources\\Prefab\\Map.prefab": {
+      "time": 1767712655427.946,
+      "uuid": "c4a1e010-f13c-4422-ab30-a0756e68d8b5"
+    },
+    "resources\\Prefab\\Actor.prefab.meta": {
+      "time": 1767712655463.9067
+    },
+    "resources\\Prefab\\Actor.prefab": {
+      "time": 1767891079010.0488,
+      "uuid": "ba8d625f-fcce-4339-9e5b-09ffce681b83"
+    },
+    "auto-atlas.pac.meta": {
+      "time": 1767712675887.0835
+    },
+    "auto-atlas.pac": {
+      "time": 1767448012808.9033,
+      "uuid": "c531d8fa-4451-4acd-b99f-f73fd31c6537"
+    },
+    "Scripts\\Entity\\Actor\\ActorStateMachine.ts.meta": {
+      "time": 1767798688496.737
+    },
+    "Scripts\\Entity\\Actor\\ActorStateMachine.ts": {
+      "time": 1767810664815.2605,
+      "uuid": "4bba350a-1016-464e-8a4b-afcbe56b3d35"
+    },
+    "resources\\Prefab\\Weapon1.prefab.meta": {
+      "time": 1767811609334.1238
+    },
+    "resources\\Prefab\\Weapon1.prefab": {
+      "time": 1767811609332.1018,
+      "uuid": "c4348f66-4f61-4b49-8a4f-8c5ae2b1ec8b"
+    },
+    "Scripts\\Entity\\Weapon.meta": {
+      "time": 1767812627283.307
+    },
+    "Scripts\\Entity\\Weapon\\WeaponManager.ts.meta": {
+      "time": 1767812627285.5884
+    },
+    "Scripts\\Entity\\Weapon\\WeaponStateMachine.ts.meta": {
+      "time": 1767812627286.588
+    },
+    "Scripts\\Entity\\Weapon": {
+      "time": 1767812627276.7998,
+      "uuid": "3b98caa0-e193-470e-9723-2ad0a95d60f6"
+    },
+    "Scripts\\Entity\\Weapon\\WeaponManager.ts": {
+      "time": 1768128834351.5952,
+      "uuid": "1f765748-d71c-404d-a63c-d6238b9501d5"
+    },
+    "Scripts\\Entity\\Weapon\\WeaponStateMachine.ts": {
+      "time": 1767872278687.4973,
+      "uuid": "caad405a-7290-40a8-ac30-f34001355ad1"
+    },
+    "Scripts\\Scene\\ShootManager.ts.meta": {
+      "time": 1767841626958.2703
+    },
+    "Scripts\\Scene\\ShootManager.ts": {
+      "time": 1767841858123.4583,
+      "uuid": "bd4d4212-d7cb-4575-b530-e879d34176d1"
+    },
+    "resources\\Prefab\\Bullet1.prefab.meta": {
+      "time": 1767847698472.5479
+    },
+    "resources\\Prefab\\Bullet1.prefab": {
+      "time": 1767848071087.468,
+      "uuid": "5a7de3e5-7033-4354-90f7-5d43ea77b89a"
+    },
+    "resources\\Prefab\\Bullet2.prefab.meta": {
+      "time": 1767848044811.3777
+    },
+    "resources\\Prefab\\Bullet2.prefab": {
+      "time": 1767848044810.3745,
+      "uuid": "1fcb3445-9d92-4a3a-9272-ba8886fe6ac2"
+    },
+    "Scripts\\Entity\\Bullet.meta": {
+      "time": 1767852421304.947
+    },
+    "Scripts\\Entity\\Bullet\\BulletManager.ts.meta": {
+      "time": 1767852421309.9446
+    },
+    "Scripts\\Entity\\Bullet\\BulletStateMachine.ts.meta": {
+      "time": 1767852421310.9446
+    },
+    "Scripts\\Entity\\Bullet": {
+      "time": 1767852421297.308,
+      "uuid": "75f800bb-5cd9-4bb6-9513-4b39e97c8c68"
+    },
+    "Scripts\\Entity\\Bullet\\BulletManager.ts": {
+      "time": 1768112195146.8083,
+      "uuid": "d51330f3-c02c-4e74-af1a-645e3b294ed3"
+    },
+    "Scripts\\Entity\\Bullet\\BulletStateMachine.ts": {
+      "time": 1767851463531.6702,
+      "uuid": "0c702a68-4cdd-4b56-9835-d1c379c1bbaf"
+    },
+    "resources\\Prefab\\Explosion.prefab.meta": {
+      "time": 1767870375261.3865
+    },
+    "resources\\Prefab\\Explosion.prefab": {
+      "time": 1767870375259.3857,
+      "uuid": "0b523c5f-a18c-4e06-89b4-dc4b496250ad"
+    },
+    "Scripts\\Entity\\Explosion.meta": {
+      "time": 1767870809542.9922
+    },
+    "Scripts\\Entity\\Explosion\\ExplosionManager.ts.meta": {
+      "time": 1767870809546.4973
+    },
+    "Scripts\\Entity\\Explosion\\ExplosionStateMachine.ts.meta": {
+      "time": 1767870809548.0012
+    },
+    "Scripts\\Entity\\Explosion": {
+      "time": 1767870809534.972,
+      "uuid": "eac593ac-f413-4fc6-8d00-87682855390c"
+    },
+    "Scripts\\Entity\\Explosion\\ExplosionManager.ts": {
+      "time": 1767871298202.8882,
+      "uuid": "8e3dbd3a-e2d2-4787-b67a-b63c098a6d61"
+    },
+    "Scripts\\Entity\\Explosion\\ExplosionStateMachine.ts": {
+      "time": 1767895880128.1555,
+      "uuid": "24ae67c0-d8f7-4186-a3c9-f29ed75623bf"
+    },
+    "Scripts\\Global\\ObjectPoolManager.ts.meta": {
+      "time": 1767894841016.1191
+    },
+    "Scripts\\Global\\ObjectPoolManager.ts": {
+      "time": 1767895541597.7908,
+      "uuid": "3876fad2-7fd0-463d-9d72-9b5d37360cf8"
+    },
+    "Scripts\\Global\\NetworkManager.ts": {
+      "time": 1768127136231.2688,
+      "uuid": "1d80d40e-2fa9-47d3-ba72-731e6e64b28b"
+    },
+    "Scripts\\Global\\NetworkManager.ts.meta": {
+      "time": 1767962636025.0283
+    },
+    "Scene\\Login.scene.meta": {
+      "time": 1768023870080.457
+    },
+    "Scene\\Login.scene": {
+      "time": 1768056486075.4485,
+      "uuid": "852749d0-3b77-4ac6-9e35-4b653b33c44d"
+    },
+    "Scripts\\Scene\\LoginManager.ts.meta": {
+      "time": 1768024615723.3738
+    },
+    "Scripts\\Scene\\LoginManager.ts": {
+      "time": 1768053504163.889,
+      "uuid": "479f43a6-9baa-465e-ae50-4c2299d2e41f"
+    },
+    "Scripts\\Common\\Api.ts.meta": {
+      "time": 1768052585850.131
+    },
+    "Scripts\\Common\\IModel.ts.meta": {
+      "time": 1768052585851.131
+    },
+    "Scripts\\Common\\Msg.ts.meta": {
+      "time": 1768052585852.1316
+    },
+    "Scripts\\Common\\Api.ts": {
+      "time": 1768104798111.4968,
+      "uuid": "0157197d-1a9b-46a5-ada8-e0728f10fae0"
+    },
+    "Scripts\\Common\\IModel.ts": {
+      "time": 1768105271857.6477,
+      "uuid": "6dc2ed6a-8922-4bbb-9003-f1140d75d55c"
+    },
+    "Scripts\\Common\\Msg.ts": {
+      "time": 1768105260817.6292,
+      "uuid": "4d52de00-d4f3-4223-b116-7a9438e37352"
+    },
+    "Scene\\Hall.scene.meta": {
+      "time": 1768052785530.4065
+    },
+    "Scene\\Hall.scene": {
+      "time": 1768068335045.2004,
+      "uuid": "ce16d558-6005-4ec4-98cb-1d40782e34c0"
+    },
+    "resources\\Prefab\\Player.prefab.meta": {
+      "time": 1768052843932.6934
+    },
+    "resources\\Prefab\\Player.prefab": {
+      "time": 1768056383453.084,
+      "uuid": "9213efdf-92bc-4473-8615-519cce236ecb"
+    },
+    "Scripts\\Scene\\HallManager.ts.meta": {
+      "time": 1768052870562.7666
+    },
+    "Scripts\\Scene\\HallManager.ts": {
+      "time": 1768106350621.6365,
+      "uuid": "b78a9c9b-e851-413f-ba0c-776f9e882116"
+    },
+    "Scripts\\UI\\PlayerManager.ts.meta": {
+      "time": 1768054658798.4072
+    },
+    "Scripts\\UI\\PlayerManager.ts": {
+      "time": 1768056512894.6096,
+      "uuid": "a425d1f1-056c-4f16-a9e8-d1cba751e93d"
+    },
+    "Scene\\Room.scene.meta": {
+      "time": 1768064007318.8062
+    },
+    "Scene\\Room.scene": {
+      "time": 1768126214133.4922,
+      "uuid": "cd46e8b9-cb83-40ae-b559-75bb6313b697"
+    },
+    "Scripts\\UI\\RoomManager.ts.meta": {
+      "time": 1768067982800.3733
+    },
+    "Scripts\\UI\\RoomManager.ts": {
+      "time": 1768106004434.557,
+      "uuid": "d1ef36c6-d8d2-4926-a7d1-daacd85d0f9c"
+    },
+    "resources\\Prefab\\Room.prefab.meta": {
+      "time": 1768068275983.4248
+    },
+    "resources\\Prefab\\Room.prefab": {
+      "time": 1768105821158.7805,
+      "uuid": "706e8a33-2566-42d8-b06f-0c91d4828a65"
+    },
+    "Scripts\\Scene\\RoomManager.ts.meta": {
+      "time": 1768069732961.3467
+    },
+    "Scripts\\Scene\\RoomManager.ts": {
+      "time": 1768126934531.9402,
+      "uuid": "7785d8fd-c8fa-4057-b386-43d818ea5e6a"
+    },
+    "Scripts\\Common\\Util.ts.meta": {
+      "time": 1768127920282.6355
+    },
+    "Scripts\\Common\\Util.ts": {
+      "time": 1768127483944.6646,
+      "uuid": "1e24b78b-b299-461c-b28f-50c904e709c6"
+    },
+    "Explosion.json.meta": {
+      "time": 1768131746465.2864
+    },
+    "Explosion.json": {
+      "time": 1768131746902.8635,
+      "uuid": "be7a67d0-54b8-400a-8980-ed92505ff331"
+    }
+  },
+  "missing": {}
+}

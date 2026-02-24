@@ -1,0 +1,7174 @@
+{
+  "modules": {
+    "cce:/internal/x/cc": {
+      "mTimestamp": 12890.7927,
+      "chunkId": "93ba276ea7b26ffcdc433fab14afc1ed6f05647b",
+      "imports": [
+        {
+          "value": "cce:/internal/x/cc-fu/2d",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 14
+            },
+            "end": {
+              "line": 1,
+              "column": 40
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/sorting",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 14
+            },
+            "end": {
+              "line": 2,
+              "column": 45
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/affine-transform",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 14
+            },
+            "end": {
+              "line": 3,
+              "column": 54
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/animation",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 14
+            },
+            "end": {
+              "line": 4,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/audio",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 14
+            },
+            "end": {
+              "line": 5,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/base",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 14
+            },
+            "end": {
+              "line": 6,
+              "column": 42
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/dragon-bones",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 14
+            },
+            "end": {
+              "line": 7,
+              "column": 50
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/gfx-webgl",
+          "resolved": "__unresolved_7",
+          "loc": {
+            "start": {
+              "line": 8,
+              "column": 14
+            },
+            "end": {
+              "line": 8,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/gfx-webgl2",
+          "resolved": "__unresolved_8",
+          "loc": {
+            "start": {
+              "line": 9,
+              "column": 14
+            },
+            "end": {
+              "line": 9,
+              "column": 48
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/graphics",
+          "resolved": "__unresolved_9",
+          "loc": {
+            "start": {
+              "line": 10,
+              "column": 14
+            },
+            "end": {
+              "line": 10,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/intersection-2d",
+          "resolved": "__unresolved_10",
+          "loc": {
+            "start": {
+              "line": 11,
+              "column": 14
+            },
+            "end": {
+              "line": 11,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/legacy-pipeline",
+          "resolved": "__unresolved_11",
+          "loc": {
+            "start": {
+              "line": 12,
+              "column": 14
+            },
+            "end": {
+              "line": 12,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/light-probe",
+          "resolved": "__unresolved_12",
+          "loc": {
+            "start": {
+              "line": 13,
+              "column": 14
+            },
+            "end": {
+              "line": 13,
+              "column": 49
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/mask",
+          "resolved": "__unresolved_13",
+          "loc": {
+            "start": {
+              "line": 14,
+              "column": 14
+            },
+            "end": {
+              "line": 14,
+              "column": 42
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/particle-2d",
+          "resolved": "__unresolved_14",
+          "loc": {
+            "start": {
+              "line": 15,
+              "column": 14
+            },
+            "end": {
+              "line": 15,
+              "column": 49
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/physics-2d-box2d",
+          "resolved": "__unresolved_15",
+          "loc": {
+            "start": {
+              "line": 16,
+              "column": 14
+            },
+            "end": {
+              "line": 16,
+              "column": 54
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/physics-2d-framework",
+          "resolved": "__unresolved_16",
+          "loc": {
+            "start": {
+              "line": 17,
+              "column": 14
+            },
+            "end": {
+              "line": 17,
+              "column": 58
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/profiler",
+          "resolved": "__unresolved_17",
+          "loc": {
+            "start": {
+              "line": 18,
+              "column": 14
+            },
+            "end": {
+              "line": 18,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/rich-text",
+          "resolved": "__unresolved_18",
+          "loc": {
+            "start": {
+              "line": 19,
+              "column": 14
+            },
+            "end": {
+              "line": 19,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/skeletal-animation",
+          "resolved": "__unresolved_19",
+          "loc": {
+            "start": {
+              "line": 20,
+              "column": 14
+            },
+            "end": {
+              "line": 20,
+              "column": 56
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/spine",
+          "resolved": "__unresolved_20",
+          "loc": {
+            "start": {
+              "line": 21,
+              "column": 14
+            },
+            "end": {
+              "line": 21,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/tiled-map",
+          "resolved": "__unresolved_21",
+          "loc": {
+            "start": {
+              "line": 22,
+              "column": 14
+            },
+            "end": {
+              "line": 22,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/tween",
+          "resolved": "__unresolved_22",
+          "loc": {
+            "start": {
+              "line": 23,
+              "column": 14
+            },
+            "end": {
+              "line": 23,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/ui",
+          "resolved": "__unresolved_23",
+          "loc": {
+            "start": {
+              "line": 24,
+              "column": 14
+            },
+            "end": {
+              "line": 24,
+              "column": 40
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/video",
+          "resolved": "__unresolved_24",
+          "loc": {
+            "start": {
+              "line": 25,
+              "column": 14
+            },
+            "end": {
+              "line": 25,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/webview",
+          "resolved": "__unresolved_25",
+          "loc": {
+            "start": {
+              "line": 26,
+              "column": 14
+            },
+            "end": {
+              "line": 26,
+              "column": 45
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/2d"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/sorting"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/affine-transform"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/animation"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/audio"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/base"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/dragon-bones"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/gfx-webgl"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/gfx-webgl2"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/graphics"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/intersection-2d"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/legacy-pipeline"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/light-probe"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/mask"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/particle-2d"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/physics-2d-box2d"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/physics-2d-framework"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/profiler"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/rich-text"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/skeletal-animation"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/spine"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/tiled-map"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/tween"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/ui"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/video"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/webview"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "cce:/internal/x/prerequisite-imports": {
+      "mTimestamp": 12803.8475,
+      "chunkId": "6d8fd2b0177941b032ddc0733af48a561fb60657",
+      "imports": [],
+      "type": "esm",
+      "resolutions": []
+    },
+    "file:///C:/ProgramData/cocos/editors/Creator/3.8.7/resources/resources/3d/engine/editor/assets/default_renderpipeline/builtin-dof-pass.ts": {
+      "mTimestamp": {
+        "mtime": 1767448013819.7183,
+        "uuid": "11f3130e-c08c-47bb-a209-71d114594e6d"
+      },
+      "chunkId": "f22794b1c95bc92b6e994a97e9b193af020adc12",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 28,
+              "column": 7
+            },
+            "end": {
+              "line": 28,
+              "column": 11
+            }
+          }
+        },
+        {
+          "value": "cc/env",
+          "loc": {
+            "start": {
+              "line": 30,
+              "column": 23
+            },
+            "end": {
+              "line": 30,
+              "column": 31
+            }
+          }
+        },
+        {
+          "value": "./builtin-pipeline-settings",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 34,
+              "column": 7
+            },
+            "end": {
+              "line": 34,
+              "column": 36
+            }
+          }
+        },
+        {
+          "value": "./builtin-pipeline-pass",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 38,
+              "column": 7
+            },
+            "end": {
+              "line": 38,
+              "column": 32
+            }
+          }
+        },
+        {
+          "value": "./builtin-pipeline",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 45,
+              "column": 7
+            },
+            "end": {
+              "line": 45,
+              "column": 27
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cc/env"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///C:/ProgramData/cocos/editors/Creator/3.8.7/resources/resources/3d/engine/editor/assets/default_renderpipeline/builtin-pipeline-settings.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///C:/ProgramData/cocos/editors/Creator/3.8.7/resources/resources/3d/engine/editor/assets/default_renderpipeline/builtin-pipeline-pass.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///C:/ProgramData/cocos/editors/Creator/3.8.7/resources/resources/3d/engine/editor/assets/default_renderpipeline/builtin-pipeline.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///C:/ProgramData/cocos/editors/Creator/3.8.7/resources/resources/3d/engine/editor/assets/default_renderpipeline/builtin-pipeline-pass.ts": {
+      "mTimestamp": {
+        "mtime": 1767448013866.3577,
+        "uuid": "6f94083c-fc92-438b-a15b-a20ec61666c7"
+      },
+      "chunkId": "d980f46bad1521f99cf9b02f6f4709610973859b",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 30,
+              "column": 7
+            },
+            "end": {
+              "line": 30,
+              "column": 11
+            }
+          }
+        },
+        {
+          "value": "./builtin-pipeline-settings",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 32,
+              "column": 40
+            },
+            "end": {
+              "line": 32,
+              "column": 69
+            }
+          }
+        },
+        {
+          "value": "cc/env",
+          "loc": {
+            "start": {
+              "line": 34,
+              "column": 23
+            },
+            "end": {
+              "line": 34,
+              "column": 31
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///C:/ProgramData/cocos/editors/Creator/3.8.7/resources/resources/3d/engine/editor/assets/default_renderpipeline/builtin-pipeline-settings.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cc/env"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///C:/ProgramData/cocos/editors/Creator/3.8.7/resources/resources/3d/engine/editor/assets/default_renderpipeline/builtin-pipeline-settings.ts": {
+      "mTimestamp": {
+        "mtime": 1767448013872.3396,
+        "uuid": "de1c2107-70c8-4021-8459-6399f24d01c6"
+      },
+      "chunkId": "c9d891290a54ec567f150962e76c6bf9cdf47b3b",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 28,
+              "column": 7
+            },
+            "end": {
+              "line": 28,
+              "column": 11
+            }
+          }
+        },
+        {
+          "value": "cc/env",
+          "loc": {
+            "start": {
+              "line": 30,
+              "column": 23
+            },
+            "end": {
+              "line": 30,
+              "column": 31
+            }
+          }
+        },
+        {
+          "value": "./builtin-pipeline-types",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 35,
+              "column": 7
+            },
+            "end": {
+              "line": 35,
+              "column": 33
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cc/env"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///C:/ProgramData/cocos/editors/Creator/3.8.7/resources/resources/3d/engine/editor/assets/default_renderpipeline/builtin-pipeline-types.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///C:/ProgramData/cocos/editors/Creator/3.8.7/resources/resources/3d/engine/editor/assets/default_renderpipeline/builtin-pipeline-types.ts": {
+      "mTimestamp": {
+        "mtime": 1767448013879.3342,
+        "uuid": "cbf30902-517f-40dc-af90-a550bac27cf1"
+      },
+      "chunkId": "84fdd98491917343dab9e13fe8b5a70bd6a363c2",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 31,
+              "column": 49
+            },
+            "end": {
+              "line": 31,
+              "column": 53
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///C:/ProgramData/cocos/editors/Creator/3.8.7/resources/resources/3d/engine/editor/assets/default_renderpipeline/builtin-pipeline.ts": {
+      "mTimestamp": {
+        "mtime": 1767448013888.357,
+        "uuid": "ff9b0199-ce04-4cfe-86cc-6c719f08d6e4"
+      },
+      "chunkId": "04f62969dc20e2c08fceeca28e5f160f93c57d48",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 29,
+              "column": 7
+            },
+            "end": {
+              "line": 29,
+              "column": 11
+            }
+          }
+        },
+        {
+          "value": "cc/env",
+          "loc": {
+            "start": {
+              "line": 31,
+              "column": 30
+            },
+            "end": {
+              "line": 31,
+              "column": 38
+            }
+          }
+        },
+        {
+          "value": "./builtin-pipeline-types",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 37,
+              "column": 7
+            },
+            "end": {
+              "line": 37,
+              "column": 33
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cc/env"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///C:/ProgramData/cocos/editors/Creator/3.8.7/resources/resources/3d/engine/editor/assets/default_renderpipeline/builtin-pipeline-types.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///C:/ProgramData/cocos/editors/Creator/3.8.7/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": {
+      "mTimestamp": {
+        "mtime": 1767448015160.3345,
+        "uuid": "b2bd1fa7-8d7c-49c5-a158-df29a6d3a594"
+      },
+      "chunkId": "e099fc7c0597d98bad93ecd30952e1955267ade1",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 220
+            },
+            "end": {
+              "line": 1,
+              "column": 224
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Base/EntityManager.ts": {
+      "mTimestamp": {
+        "mtime": 1767809795144.3613,
+        "uuid": "2e4eed53-d1b9-42ef-97aa-8d0a8da927f7"
+      },
+      "chunkId": "1b9a572ef49dc55bfa46a9d0b8694a515c169743",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 38
+            },
+            "end": {
+              "line": 1,
+              "column": 42
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Base/Singleton.ts": {
+      "mTimestamp": {
+        "mtime": 1767676601037.112,
+        "uuid": "0ee5b84a-8971-410f-a39d-2cf96597dd45"
+      },
+      "chunkId": "bf81d37f62fccfa5cd4af2d63999b3ca52e502ec",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Base/State.ts": {
+      "mTimestamp": {
+        "mtime": 1767676601047.6235,
+        "uuid": "226c1921-1459-4764-82e6-b1a11c5a73c2"
+      },
+      "chunkId": "a23c82c884b4e300d9c347e84e4af80506497c82",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 62
+            },
+            "end": {
+              "line": 1,
+              "column": 66
+            }
+          }
+        },
+        {
+          "value": "../Global/DataManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 24
+            },
+            "end": {
+              "line": 2,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "../Utils",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 32
+            },
+            "end": {
+              "line": 4,
+              "column": 42
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Global/DataManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Utils/index.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Base/StateMachine.ts": {
+      "mTimestamp": {
+        "mtime": 1767809400147.299,
+        "uuid": "66538d45-0fcf-4ed2-8e47-a0a688ddaf3c"
+      },
+      "chunkId": "6fafba7177bbe6d8057e382fda951022d4a4c647",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 49
+            },
+            "end": {
+              "line": 1,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "../Enum",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 33
+            },
+            "end": {
+              "line": 3,
+              "column": 42
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Enum/index.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Base/StateMachineTemplate.ts": {
+      "mTimestamp": {
+        "mtime": 1767801125820.0735,
+        "uuid": "ff33a799-6908-4d1d-902b-f36aec10d4de"
+      },
+      "chunkId": "b157eed942f68943f9f81e2126bb776d14f83968",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Base/SubStateMachine.ts": {
+      "mTimestamp": {
+        "mtime": 1767676601065.0986,
+        "uuid": "7f9fac71-9820-41b2-8b4d-2dc4185414ef"
+      },
+      "chunkId": "79faa7c7c1df66bb8f513e6839be42a16bd54929",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Enum/index.ts": {
+      "mTimestamp": {
+        "mtime": 1768070490705.0088,
+        "uuid": "393286c2-7b09-44d1-955f-049e7e5b36ea"
+      },
+      "chunkId": "c7a3e92048a4a4231657a559bb1233251b56e961",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Global/DataManager.ts": {
+      "mTimestamp": {
+        "mtime": 1768128626296.245,
+        "uuid": "1682ed16-4e4f-46b3-8aca-92baecd30b9d"
+      },
+      "chunkId": "25eaead65d56dcfb3b98e19c41a4f2c707f4ddc2",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "../Base/Singleton",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 22
+            },
+            "end": {
+              "line": 3,
+              "column": 41
+            }
+          }
+        },
+        {
+          "value": "../Common",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 95
+            },
+            "end": {
+              "line": 4,
+              "column": 106
+            }
+          }
+        },
+        {
+          "value": "./EventManager",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 8,
+              "column": 25
+            },
+            "end": {
+              "line": 8,
+              "column": 41
+            }
+          }
+        },
+        {
+          "value": "../Enum",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 9,
+              "column": 26
+            },
+            "end": {
+              "line": 9,
+              "column": 35
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Base/Singleton.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Common/index.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Global/EventManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Enum/index.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Global/EventManager.ts": {
+      "mTimestamp": {
+        "mtime": 1767676601081.098,
+        "uuid": "2aa2e7de-b014-4ee7-a537-4bc99dbf9164"
+      },
+      "chunkId": "503e5af78eb5a5f5967b3c1b362add3757cd7f2b",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "../Base/Singleton",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 22
+            },
+            "end": {
+              "line": 1,
+              "column": 41
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Base/Singleton.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Global/ResourceManager.ts": {
+      "mTimestamp": {
+        "mtime": 1767676601096.729,
+        "uuid": "6278727d-3641-46d1-ae43-52b7829402d1"
+      },
+      "chunkId": "2d0d790d2518195ac122a49eae8f6cc34cdec87a",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 45
+            },
+            "end": {
+              "line": 1,
+              "column": 49
+            }
+          }
+        },
+        {
+          "value": "../Base/Singleton",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 22
+            },
+            "end": {
+              "line": 2,
+              "column": 41
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Base/Singleton.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Utils/index.ts": {
+      "mTimestamp": {
+        "mtime": 1768125869158.4756,
+        "uuid": "2e280f2e-52a3-465a-acf5-fb412ef51d6b"
+      },
+      "chunkId": "3abd28ca9ab1b151eb8f8f7945d39ceb473be886",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "cce:/internal/code-quality/cr.mjs": {
+      "mTimestamp": 1771607647097,
+      "chunkId": "6a5019a719a9014c047e67aa1cf34453ab8392ce",
+      "imports": [],
+      "type": "esm",
+      "resolutions": []
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Common/index.ts": {
+      "mTimestamp": {
+        "mtime": 1768127498338.1765,
+        "uuid": "2a7bdf4b-b85b-43ee-b69d-7f801d03ca83"
+      },
+      "chunkId": "e8e81ac83b87c4ed72e3e532701ea0de4d9693c4",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "./Status",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 14
+            },
+            "end": {
+              "line": 1,
+              "column": 24
+            }
+          }
+        },
+        {
+          "value": "./Enum",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 14
+            },
+            "end": {
+              "line": 2,
+              "column": 22
+            }
+          }
+        },
+        {
+          "value": "./Api",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 14
+            },
+            "end": {
+              "line": 3,
+              "column": 21
+            }
+          }
+        },
+        {
+          "value": "./IModel",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 14
+            },
+            "end": {
+              "line": 4,
+              "column": 24
+            }
+          }
+        },
+        {
+          "value": "./Msg",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 14
+            },
+            "end": {
+              "line": 5,
+              "column": 21
+            }
+          }
+        },
+        {
+          "value": "./Util",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 14
+            },
+            "end": {
+              "line": 6,
+              "column": 22
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Common/Status.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Common/Enum.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Common/Api.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Common/IModel.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Common/Msg.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Common/Util.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/UI/JoyStickManager.ts": {
+      "mTimestamp": {
+        "mtime": 1767700609276.133,
+        "uuid": "6f6b94b6-3c9b-4c4c-8183-69d9a8bbbeca"
+      },
+      "chunkId": "3e8435126cb42d4e5ac5c352770306faaab8f156",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 95
+            },
+            "end": {
+              "line": 1,
+              "column": 99
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Common/Status.ts": {
+      "mTimestamp": {
+        "mtime": 1767891103154.751,
+        "uuid": "431a7992-a317-47b8-9e6d-528ff619257c"
+      },
+      "chunkId": "715315f540894ab2d9b7a83539f29f0d835bd3f7",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Entity/Actor/ActorManager.ts": {
+      "mTimestamp": {
+        "mtime": 1768128787147.7712,
+        "uuid": "5adcb6f1-bc8f-4579-a870-c70e16397e98"
+      },
+      "chunkId": "2babd585c0a5a52a1427e7601153e907469e2395",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 87
+            },
+            "end": {
+              "line": 2,
+              "column": 91
+            }
+          }
+        },
+        {
+          "value": "../../Global/DataManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 36
+            },
+            "end": {
+              "line": 3,
+              "column": 62
+            }
+          }
+        },
+        {
+          "value": "../../Common",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 61
+            },
+            "end": {
+              "line": 4,
+              "column": 75
+            }
+          }
+        },
+        {
+          "value": "../../Base/EntityManager",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 30
+            },
+            "end": {
+              "line": 5,
+              "column": 56
+            }
+          }
+        },
+        {
+          "value": "./ActorStateMachine",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 34
+            },
+            "end": {
+              "line": 6,
+              "column": 55
+            }
+          }
+        },
+        {
+          "value": "../../Enum",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 59
+            },
+            "end": {
+              "line": 7,
+              "column": 71
+            }
+          }
+        },
+        {
+          "value": "../Weapon/WeaponManager",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 8,
+              "column": 30
+            },
+            "end": {
+              "line": 8,
+              "column": 55
+            }
+          }
+        },
+        {
+          "value": "../../Utils",
+          "resolved": "__unresolved_7",
+          "loc": {
+            "start": {
+              "line": 9,
+              "column": 26
+            },
+            "end": {
+              "line": 9,
+              "column": 39
+            }
+          }
+        },
+        {
+          "value": "../../Global/EventManager",
+          "resolved": "__unresolved_8",
+          "loc": {
+            "start": {
+              "line": 10,
+              "column": 25
+            },
+            "end": {
+              "line": 10,
+              "column": 52
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Global/DataManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Common/index.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Base/EntityManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Entity/Actor/ActorStateMachine.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Enum/index.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Entity/Weapon/WeaponManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Utils/index.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Global/EventManager.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Scene/BattleManager.ts": {
+      "mTimestamp": {
+        "mtime": 1770641000950.88,
+        "uuid": "0cf3c3b5-d102-47c3-a3b3-a90852010b3c"
+      },
+      "chunkId": "438870a8705d9305583264a58c656042c779bb0b",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 108
+            },
+            "end": {
+              "line": 2,
+              "column": 112
+            }
+          }
+        },
+        {
+          "value": "../Global/DataManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 24
+            },
+            "end": {
+              "line": 3,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "../UI/JoyStickManager",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 32
+            },
+            "end": {
+              "line": 4,
+              "column": 55
+            }
+          }
+        },
+        {
+          "value": "../Controller/BattleController",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 33
+            },
+            "end": {
+              "line": 5,
+              "column": 65
+            }
+          }
+        },
+        {
+          "value": "../Entity/Actor/ActorManager",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 29
+            },
+            "end": {
+              "line": 6,
+              "column": 59
+            }
+          }
+        },
+        {
+          "value": "../Entity/Bullet/BulletManager",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 30
+            },
+            "end": {
+              "line": 7,
+              "column": 62
+            }
+          }
+        },
+        {
+          "value": "../Common",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 8,
+              "column": 120
+            },
+            "end": {
+              "line": 8,
+              "column": 131
+            }
+          }
+        },
+        {
+          "value": "../Global/ObjectPoolManager",
+          "resolved": "__unresolved_7",
+          "loc": {
+            "start": {
+              "line": 9,
+              "column": 30
+            },
+            "end": {
+              "line": 9,
+              "column": 59
+            }
+          }
+        },
+        {
+          "value": "../Global/NetworkManager",
+          "resolved": "__unresolved_8",
+          "loc": {
+            "start": {
+              "line": 10,
+              "column": 31
+            },
+            "end": {
+              "line": 10,
+              "column": 57
+            }
+          }
+        },
+        {
+          "value": "../Global/EventManager",
+          "resolved": "__unresolved_9",
+          "loc": {
+            "start": {
+              "line": 11,
+              "column": 25
+            },
+            "end": {
+              "line": 11,
+              "column": 49
+            }
+          }
+        },
+        {
+          "value": "../Enum",
+          "resolved": "__unresolved_10",
+          "loc": {
+            "start": {
+              "line": 12,
+              "column": 26
+            },
+            "end": {
+              "line": 12,
+              "column": 35
+            }
+          }
+        },
+        {
+          "value": "../Utils",
+          "resolved": "__unresolved_11",
+          "loc": {
+            "start": {
+              "line": 13,
+              "column": 26
+            },
+            "end": {
+              "line": 13,
+              "column": 36
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Global/DataManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/UI/JoyStickManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Controller/BattleController.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Entity/Actor/ActorManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Entity/Bullet/BulletManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Common/index.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Global/ObjectPoolManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Global/NetworkManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Global/EventManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Enum/index.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Utils/index.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Common/Enum.ts": {
+      "mTimestamp": {
+        "mtime": 1768105042252.8396,
+        "uuid": "5db658ce-cc24-4490-b8ff-a1ef9e5cee88"
+      },
+      "chunkId": "932eb2d94ead485c444a3669a6d0816611db9be7",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Controller/BattleController.ts": {
+      "mTimestamp": {
+        "mtime": 1767970445192.5647,
+        "uuid": "e2e47af3-b8cc-43d7-bd63-050b5d9938ee"
+      },
+      "chunkId": "4d02bd19434c0b61b4041e0b5c20554765117159",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 36
+            },
+            "end": {
+              "line": 1,
+              "column": 40
+            }
+          }
+        },
+        {
+          "value": "../Global/DataManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 24
+            },
+            "end": {
+              "line": 2,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "../Global/ResourceManager",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 32
+            },
+            "end": {
+              "line": 3,
+              "column": 59
+            }
+          }
+        },
+        {
+          "value": "../Common",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 48
+            },
+            "end": {
+              "line": 6,
+              "column": 59
+            }
+          }
+        },
+        {
+          "value": "../Enum",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 48
+            },
+            "end": {
+              "line": 7,
+              "column": 57
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Global/DataManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Global/ResourceManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Common/index.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Enum/index.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/index.ts": {
+      "mTimestamp": {
+        "mtime": 1767715989713.533,
+        "uuid": "ff248769-8d95-4a2d-bb4f-a7e4178db1aa"
+      },
+      "chunkId": "f3b769e947ba6d37f7c07fddf87357f6f2f12788",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "./core",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 14
+            },
+            "end": {
+              "line": 1,
+              "column": 22
+            }
+          }
+        },
+        {
+          "value": "./node",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 14
+            },
+            "end": {
+              "line": 2,
+              "column": 22
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/core/index.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/index.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/core/BehaviorEditor.ts": {
+      "mTimestamp": {
+        "mtime": 1767715989702.3953,
+        "uuid": "64ef9fba-e706-48eb-8788-891b0a953742"
+      },
+      "chunkId": "ca0d84e029b1f8f0a9df87354cf4cae2f210b16e",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 38
+            },
+            "end": {
+              "line": 1,
+              "column": 42
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/core/BehaviorManager.ts": {
+      "mTimestamp": {
+        "mtime": 1767715989703.395,
+        "uuid": "32f3a31c-182e-4ccc-96b0-b77b333a4967"
+      },
+      "chunkId": "e3f6f5b7cc68307667d9e5792677e5899f809f0a",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 48
+            },
+            "end": {
+              "line": 1,
+              "column": 52
+            }
+          }
+        },
+        {
+          "value": "../node",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 99
+            },
+            "end": {
+              "line": 2,
+              "column": 108
+            }
+          }
+        },
+        {
+          "value": "./BehaviorTree",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 60
+            },
+            "end": {
+              "line": 3,
+              "column": 76
+            }
+          }
+        },
+        {
+          "value": "./utils",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 26
+            },
+            "end": {
+              "line": 4,
+              "column": 35
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/index.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/core/BehaviorTree.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/core/utils.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/core/BehaviorSource.ts": {
+      "mTimestamp": {
+        "mtime": 1767715989706.2056,
+        "uuid": "cdad35f2-8366-454f-a958-581c933cabfa"
+      },
+      "chunkId": "e41c354732a97b48cf89089ab716271a6768817c",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "../node/index",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 54
+            },
+            "end": {
+              "line": 1,
+              "column": 69
+            }
+          }
+        },
+        {
+          "value": "./decorator",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 27
+            },
+            "end": {
+              "line": 2,
+              "column": 40
+            }
+          }
+        },
+        {
+          "value": "./utils",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 37
+            },
+            "end": {
+              "line": 3,
+              "column": 46
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/index.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/core/decorator.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/core/utils.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/core/BehaviorTree.ts": {
+      "mTimestamp": {
+        "mtime": 1767715989707.2253,
+        "uuid": "38f09171-8155-4d93-a326-02d0ab919408"
+      },
+      "chunkId": "f892bf0abe87d23def6c1dd794c0217844a39a09",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 76
+            },
+            "end": {
+              "line": 1,
+              "column": 80
+            }
+          }
+        },
+        {
+          "value": "../node",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 27
+            },
+            "end": {
+              "line": 2,
+              "column": 36
+            }
+          }
+        },
+        {
+          "value": "./BehaviorEditor",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 31
+            },
+            "end": {
+              "line": 3,
+              "column": 49
+            }
+          }
+        },
+        {
+          "value": "./BehaviorManager",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 32
+            },
+            "end": {
+              "line": 4,
+              "column": 51
+            }
+          }
+        },
+        {
+          "value": "./BehaviorSource",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 31
+            },
+            "end": {
+              "line": 5,
+              "column": 49
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/index.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/core/BehaviorEditor.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/core/BehaviorManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/core/BehaviorSource.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/core/Blackboard.ts": {
+      "mTimestamp": {
+        "mtime": 1767715989708.2173,
+        "uuid": "4e6406fe-f57a-49a1-b0dd-d9ff4870483c"
+      },
+      "chunkId": "f74bf5fd5ea73d5cd3304811fca6f24f219134cb",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/core/decorator.ts": {
+      "mTimestamp": {
+        "mtime": 1767715989710.5293,
+        "uuid": "8ac4d530-3e5d-4e78-85e4-af1cf07f29c4"
+      },
+      "chunkId": "4df87c605067e97b45676b744b4c609d70addf8f",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/core/index.ts": {
+      "mTimestamp": {
+        "mtime": 1767715989711.5334,
+        "uuid": "dbb89a2d-d8fe-4ca6-a21d-2540a854363b"
+      },
+      "chunkId": "c943e18559d9d826cfa70d272fad63962baece3a",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "./BehaviorSource",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 14
+            },
+            "end": {
+              "line": 1,
+              "column": 32
+            }
+          }
+        },
+        {
+          "value": "./BehaviorTree",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 14
+            },
+            "end": {
+              "line": 2,
+              "column": 30
+            }
+          }
+        },
+        {
+          "value": "./BehaviorEditor",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 14
+            },
+            "end": {
+              "line": 3,
+              "column": 32
+            }
+          }
+        },
+        {
+          "value": "./BehaviorManager",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 14
+            },
+            "end": {
+              "line": 4,
+              "column": 33
+            }
+          }
+        },
+        {
+          "value": "./Blackboard",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 14
+            },
+            "end": {
+              "line": 5,
+              "column": 28
+            }
+          }
+        },
+        {
+          "value": "./decorator",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 14
+            },
+            "end": {
+              "line": 6,
+              "column": 27
+            }
+          }
+        },
+        {
+          "value": "./utils",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 14
+            },
+            "end": {
+              "line": 7,
+              "column": 23
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/core/BehaviorSource.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/core/BehaviorTree.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/core/BehaviorEditor.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/core/BehaviorManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/core/Blackboard.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/core/decorator.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/core/utils.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/core/utils.ts": {
+      "mTimestamp": {
+        "mtime": 1767715989713.533,
+        "uuid": "9c26840f-fbbf-4052-8214-60d9ef6157f8"
+      },
+      "chunkId": "a0574793860a33c6253cec91186ffb217140a73f",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/action/ActionCommon.ts": {
+      "mTimestamp": {
+        "mtime": 1767715989717.554,
+        "uuid": "1d707b41-f5e1-4724-b2f4-99f12fa01a80"
+      },
+      "chunkId": "b22e8d8799cb24154afce51de140ab556fffd5f9",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "../index",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 35
+            },
+            "end": {
+              "line": 1,
+              "column": 45
+            }
+          }
+        },
+        {
+          "value": "../../core/decorator",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 24
+            },
+            "end": {
+              "line": 2,
+              "column": 46
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/index.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/core/decorator.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/action/index.ts": {
+      "mTimestamp": {
+        "mtime": 1767715989718.5576,
+        "uuid": "6153c7e2-9f9e-4030-b955-701e42e99cdd"
+      },
+      "chunkId": "114df9835bade6f10e37f3db51281b8ef96a97c2",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "./ActionCommon",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 14
+            },
+            "end": {
+              "line": 1,
+              "column": 30
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/action/ActionCommon.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/base/Action.ts": {
+      "mTimestamp": {
+        "mtime": 1767715989722.9033,
+        "uuid": "2e831c75-2386-4d42-8671-a3288a30c233"
+      },
+      "chunkId": "2614108853695ab58ed46e82254c54a82aca0698",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "./Node",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 21
+            },
+            "end": {
+              "line": 1,
+              "column": 29
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/base/Node.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/base/Composite.ts": {
+      "mTimestamp": {
+        "mtime": 1767715989723.9033,
+        "uuid": "85225b8d-3e2a-4163-81b1-a0a1266c197a"
+      },
+      "chunkId": "457d31d51956330eb2d653230ba425b3b8ecb611",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "../enum",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 26
+            },
+            "end": {
+              "line": 1,
+              "column": 35
+            }
+          }
+        },
+        {
+          "value": "./ParentNode",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 27
+            },
+            "end": {
+              "line": 2,
+              "column": 41
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/enum/index.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/base/ParentNode.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/base/Condition.ts": {
+      "mTimestamp": {
+        "mtime": 1767715989725.9092,
+        "uuid": "c64fca7f-9bb1-4b2c-8b66-96c56dc41ef5"
+      },
+      "chunkId": "5f6c031afe74b8ac7d1111ffe53f1fb158e97d2e",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "./Node",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 21
+            },
+            "end": {
+              "line": 1,
+              "column": 29
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/base/Node.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/base/Decorator.ts": {
+      "mTimestamp": {
+        "mtime": 1767715989726.9111,
+        "uuid": "defc2872-d374-4bf8-9659-744ccd23710d"
+      },
+      "chunkId": "3ad3c52e05a868c786af36225e35747cea306bba",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "./ParentNode",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 27
+            },
+            "end": {
+              "line": 1,
+              "column": 41
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/base/ParentNode.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/base/Node.ts": {
+      "mTimestamp": {
+        "mtime": 1767715989728.9067,
+        "uuid": "c7097fbd-6e01-417e-a846-218deea5e0f1"
+      },
+      "chunkId": "c362580b44843bbb697c45eac9f749d3fac87430",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "../enum",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 38
+            },
+            "end": {
+              "line": 1,
+              "column": 47
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/enum/index.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/base/ParentNode.ts": {
+      "mTimestamp": {
+        "mtime": 1767715989729.9043,
+        "uuid": "3a22537d-c563-48dd-9d19-85fd4ab92470"
+      },
+      "chunkId": "1d76684ded6617fcd98515538541387c0d7284cb",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "./Node",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 21
+            },
+            "end": {
+              "line": 2,
+              "column": 29
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/base/Node.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/base/index.ts": {
+      "mTimestamp": {
+        "mtime": 1767715989727.911,
+        "uuid": "96de12f8-5c80-4886-8724-b49bfb2b6275"
+      },
+      "chunkId": "a4c3943bb28a93f0f0f9698770688ec02bc5e970",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "./Node",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 14
+            },
+            "end": {
+              "line": 1,
+              "column": 22
+            }
+          }
+        },
+        {
+          "value": "./Action",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 14
+            },
+            "end": {
+              "line": 2,
+              "column": 24
+            }
+          }
+        },
+        {
+          "value": "./Composite",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 14
+            },
+            "end": {
+              "line": 3,
+              "column": 27
+            }
+          }
+        },
+        {
+          "value": "./Condition",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 14
+            },
+            "end": {
+              "line": 4,
+              "column": 27
+            }
+          }
+        },
+        {
+          "value": "./Decorator",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 14
+            },
+            "end": {
+              "line": 5,
+              "column": 27
+            }
+          }
+        },
+        {
+          "value": "./ParentNode",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 14
+            },
+            "end": {
+              "line": 6,
+              "column": 28
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/base/Node.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/base/Action.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/base/Composite.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/base/Condition.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/base/Decorator.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/base/ParentNode.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/composite/Parallel.ts": {
+      "mTimestamp": {
+        "mtime": 1767715989737.1887,
+        "uuid": "f641d6af-0170-4796-a480-4294194d19c5"
+      },
+      "chunkId": "09e4504b5db0e15d926197f509c0dc33fa886dd3",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "../index",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 38
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        },
+        {
+          "value": "../../core/decorator",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 24
+            },
+            "end": {
+              "line": 2,
+              "column": 46
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/index.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/core/decorator.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/composite/RandomSelector.ts": {
+      "mTimestamp": {
+        "mtime": 1767715989738.179,
+        "uuid": "ff11c9ef-38fb-430b-96c6-398bea66af98"
+      },
+      "chunkId": "dd84191c049bbf54939cea70cd8bf8e747371534",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "../index",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 38
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        },
+        {
+          "value": "../../core/decorator",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 24
+            },
+            "end": {
+              "line": 2,
+              "column": 46
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/index.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/core/decorator.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/composite/RandomSequence.ts": {
+      "mTimestamp": {
+        "mtime": 1767715989739.179,
+        "uuid": "f6be9080-400d-4e0a-a57c-cb0d083f454d"
+      },
+      "chunkId": "73bceb752c18d6c3df0cfb3f19dc3933dc14aa15",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "../index",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 38
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        },
+        {
+          "value": "../../core/decorator",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 24
+            },
+            "end": {
+              "line": 2,
+              "column": 46
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/index.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/core/decorator.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/composite/Selector.ts": {
+      "mTimestamp": {
+        "mtime": 1767715989741.1865,
+        "uuid": "c74d0271-0495-403e-8dd6-7be854848e31"
+      },
+      "chunkId": "2793b0a7d87ba82fa578d538b55cebcbdda49fa2",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "../index",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 38
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        },
+        {
+          "value": "../../core/decorator",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 24
+            },
+            "end": {
+              "line": 2,
+              "column": 46
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/index.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/core/decorator.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/composite/Sequence.ts": {
+      "mTimestamp": {
+        "mtime": 1767715989742.413,
+        "uuid": "721173da-f812-4c4e-af35-fd4f7487a602"
+      },
+      "chunkId": "564daa026822640e4f312a808013d3f727fde877",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "../index",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 38
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        },
+        {
+          "value": "../../core/decorator",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 24
+            },
+            "end": {
+              "line": 2,
+              "column": 46
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/index.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/core/decorator.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/composite/index.ts": {
+      "mTimestamp": {
+        "mtime": 1767715989735.93,
+        "uuid": "2cfb7c69-7b74-490b-8491-ba64408869bd"
+      },
+      "chunkId": "8ca287cd46661bfb4ce27672a1d378ce7ae203d1",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "./Sequence",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 14
+            },
+            "end": {
+              "line": 1,
+              "column": 26
+            }
+          }
+        },
+        {
+          "value": "./Selector",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 14
+            },
+            "end": {
+              "line": 2,
+              "column": 26
+            }
+          }
+        },
+        {
+          "value": "./Parallel",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 14
+            },
+            "end": {
+              "line": 3,
+              "column": 26
+            }
+          }
+        },
+        {
+          "value": "./RandomSequence",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 14
+            },
+            "end": {
+              "line": 4,
+              "column": 32
+            }
+          }
+        },
+        {
+          "value": "./RandomSelector",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 14
+            },
+            "end": {
+              "line": 5,
+              "column": 32
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/composite/Sequence.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/composite/Selector.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/composite/Parallel.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/composite/RandomSequence.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/composite/RandomSelector.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/condition/ConditionCommon.ts": {
+      "mTimestamp": {
+        "mtime": 1767715989745.4167,
+        "uuid": "d0c1fdb4-39dc-44ba-9f1e-46a14b037c45"
+      },
+      "chunkId": "7299f226b428ba94e85dfc8ae9d7ffe003ad0110",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "../index",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 38
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        },
+        {
+          "value": "../../core/decorator",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 24
+            },
+            "end": {
+              "line": 2,
+              "column": 46
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/index.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/core/decorator.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/condition/index.ts": {
+      "mTimestamp": {
+        "mtime": 1767715989747.4177,
+        "uuid": "94159177-54dc-42de-a47a-ae4ca8e464a3"
+      },
+      "chunkId": "2b4a185ccb880a208f8ac8d2fa1db0e411cc6265",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "./ConditionCommon",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 14
+            },
+            "end": {
+              "line": 1,
+              "column": 33
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/condition/ConditionCommon.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/decorator/Inverter.ts": {
+      "mTimestamp": {
+        "mtime": 1767715989752.4165,
+        "uuid": "09372b6d-3157-45f5-9809-217c0536ff6e"
+      },
+      "chunkId": "3bf04e241d9b1a7844c0485649abce92d6a4c673",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "../index",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 38
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        },
+        {
+          "value": "../../core/decorator",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 24
+            },
+            "end": {
+              "line": 2,
+              "column": 46
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/index.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/core/decorator.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/decorator/Repeater.ts": {
+      "mTimestamp": {
+        "mtime": 1767715989753.4163,
+        "uuid": "6067c61a-2170-49de-94a8-f173e799e513"
+      },
+      "chunkId": "c6015aec100957d783894821e9da571d5b747aea",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "../index",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 54
+            }
+          }
+        },
+        {
+          "value": "../../core/decorator",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 24
+            },
+            "end": {
+              "line": 2,
+              "column": 46
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/index.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/core/decorator.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/decorator/UntilSuccess.ts": {
+      "mTimestamp": {
+        "mtime": 1767715989754.4172,
+        "uuid": "1e0f5b40-65d9-4356-9c64-a9adaf3f28cd"
+      },
+      "chunkId": "e51af1ac93baa0002cda36887712f6d8651506be",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "../index",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 38
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        },
+        {
+          "value": "../../core/decorator",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 24
+            },
+            "end": {
+              "line": 2,
+              "column": 46
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/index.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/core/decorator.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/decorator/index.ts": {
+      "mTimestamp": {
+        "mtime": 1767715989750.4219,
+        "uuid": "8905f5bf-f397-4270-9e0a-d0dccfccf37c"
+      },
+      "chunkId": "a8900978fdfe2d89758b1ca96b943f6b623f5e2a",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "./Inverter",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 14
+            },
+            "end": {
+              "line": 1,
+              "column": 26
+            }
+          }
+        },
+        {
+          "value": "./Repeater",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 14
+            },
+            "end": {
+              "line": 2,
+              "column": 26
+            }
+          }
+        },
+        {
+          "value": "./UntilSuccess",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 14
+            },
+            "end": {
+              "line": 3,
+              "column": 30
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/decorator/Inverter.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/decorator/Repeater.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/decorator/UntilSuccess.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/enum/index.ts": {
+      "mTimestamp": {
+        "mtime": 1767715989757.1262,
+        "uuid": "0f03b341-5e39-4672-b712-693126ac83cf"
+      },
+      "chunkId": "281aaa76f3df45433ebcbc1720070b2f9f864e35",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/index.ts": {
+      "mTimestamp": {
+        "mtime": 1767715989758.1204,
+        "uuid": "0123bde8-9711-49c6-887f-77c9a204d88b"
+      },
+      "chunkId": "7983978c939aa587b603e306e22910c29fa218e0",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "./base",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 14
+            },
+            "end": {
+              "line": 1,
+              "column": 22
+            }
+          }
+        },
+        {
+          "value": "./enum",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 14
+            },
+            "end": {
+              "line": 2,
+              "column": 22
+            }
+          }
+        },
+        {
+          "value": "./action",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 14
+            },
+            "end": {
+              "line": 3,
+              "column": 24
+            }
+          }
+        },
+        {
+          "value": "./composite",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 14
+            },
+            "end": {
+              "line": 4,
+              "column": 27
+            }
+          }
+        },
+        {
+          "value": "./decorator",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 14
+            },
+            "end": {
+              "line": 5,
+              "column": 27
+            }
+          }
+        },
+        {
+          "value": "./condition",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 14
+            },
+            "end": {
+              "line": 6,
+              "column": 27
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/base/index.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/enum/index.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/action/index.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/composite/index.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/decorator/index.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/extensions/Behavior%20Eden/src/runtime/node/condition/index.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Entity/Actor/ActorStateMachine.ts": {
+      "mTimestamp": {
+        "mtime": 1767810664815.2605,
+        "uuid": "4bba350a-1016-464e-8a4b-afcbe56b3d35"
+      },
+      "chunkId": "f96379af44c115739c2fbb6fee8888fdf445304a",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 53
+            },
+            "end": {
+              "line": 1,
+              "column": 57
+            }
+          }
+        },
+        {
+          "value": "../../Enum",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 48
+            },
+            "end": {
+              "line": 3,
+              "column": 60
+            }
+          }
+        },
+        {
+          "value": "../../Base/StateMachine",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 51
+            },
+            "end": {
+              "line": 4,
+              "column": 76
+            }
+          }
+        },
+        {
+          "value": "../../Base/State",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 18
+            },
+            "end": {
+              "line": 5,
+              "column": 36
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Enum/index.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Base/StateMachine.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Base/State.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Entity/Weapon/WeaponManager.ts": {
+      "mTimestamp": {
+        "mtime": 1768128834351.5952,
+        "uuid": "1f765748-d71c-404d-a63c-d6238b9501d5"
+      },
+      "chunkId": "ea665854e5afeafee769f42ed8e1cd41a69f01e2",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 62
+            },
+            "end": {
+              "line": 1,
+              "column": 66
+            }
+          }
+        },
+        {
+          "value": "../../Global/DataManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 24
+            },
+            "end": {
+              "line": 2,
+              "column": 50
+            }
+          }
+        },
+        {
+          "value": "../../Common",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 45
+            },
+            "end": {
+              "line": 3,
+              "column": 59
+            }
+          }
+        },
+        {
+          "value": "../../Base/EntityManager",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 30
+            },
+            "end": {
+              "line": 4,
+              "column": 56
+            }
+          }
+        },
+        {
+          "value": "../../Enum",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 75
+            },
+            "end": {
+              "line": 5,
+              "column": 87
+            }
+          }
+        },
+        {
+          "value": "./WeaponStateMachine",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 35
+            },
+            "end": {
+              "line": 6,
+              "column": 57
+            }
+          }
+        },
+        {
+          "value": "../../Global/EventManager",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 25
+            },
+            "end": {
+              "line": 7,
+              "column": 52
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Global/DataManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Common/index.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Base/EntityManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Enum/index.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Entity/Weapon/WeaponStateMachine.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Global/EventManager.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Entity/Weapon/WeaponStateMachine.ts": {
+      "mTimestamp": {
+        "mtime": 1767872278687.4973,
+        "uuid": "caad405a-7290-40a8-ac30-f34001355ad1"
+      },
+      "chunkId": "7932cea130db00700286cb4424b548041d708940",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 53
+            },
+            "end": {
+              "line": 1,
+              "column": 57
+            }
+          }
+        },
+        {
+          "value": "../../Enum",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 48
+            },
+            "end": {
+              "line": 3,
+              "column": 60
+            }
+          }
+        },
+        {
+          "value": "../../Base/StateMachine",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 51
+            },
+            "end": {
+              "line": 4,
+              "column": 76
+            }
+          }
+        },
+        {
+          "value": "../../Base/State",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 18
+            },
+            "end": {
+              "line": 5,
+              "column": 36
+            }
+          }
+        },
+        {
+          "value": "./WeaponManager",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 30
+            },
+            "end": {
+              "line": 6,
+              "column": 47
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Enum/index.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Base/StateMachine.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Base/State.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Entity/Weapon/WeaponManager.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Scene/ShootManager.ts": {
+      "mTimestamp": {
+        "mtime": 1767841858123.4583,
+        "uuid": "bd4d4212-d7cb-4575-b530-e879d34176d1"
+      },
+      "chunkId": "d045ca12120ce30b23faee8d1a5ac439b7d34371",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        },
+        {
+          "value": "../Global/EventManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 25
+            },
+            "end": {
+              "line": 2,
+              "column": 49
+            }
+          }
+        },
+        {
+          "value": "../Enum",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 26
+            },
+            "end": {
+              "line": 3,
+              "column": 35
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Global/EventManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Enum/index.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Entity/Bullet/BulletManager.ts": {
+      "mTimestamp": {
+        "mtime": 1768112195146.8083,
+        "uuid": "d51330f3-c02c-4e74-af1a-645e3b294ed3"
+      },
+      "chunkId": "e7b4a43a11d43e39dbac7207d48ba9161e8faeae",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "./../Explosion/ExplosionManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 33
+            },
+            "end": {
+              "line": 2,
+              "column": 66
+            }
+          }
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 73
+            },
+            "end": {
+              "line": 4,
+              "column": 77
+            }
+          }
+        },
+        {
+          "value": "../../Global/DataManager",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 24
+            },
+            "end": {
+              "line": 5,
+              "column": 50
+            }
+          }
+        },
+        {
+          "value": "../../Common",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 63
+            },
+            "end": {
+              "line": 6,
+              "column": 77
+            }
+          }
+        },
+        {
+          "value": "../../Base/EntityManager",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 30
+            },
+            "end": {
+              "line": 7,
+              "column": 56
+            }
+          }
+        },
+        {
+          "value": "../../Enum",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 9,
+              "column": 59
+            },
+            "end": {
+              "line": 9,
+              "column": 71
+            }
+          }
+        },
+        {
+          "value": "../../Utils",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 11,
+              "column": 26
+            },
+            "end": {
+              "line": 11,
+              "column": 39
+            }
+          }
+        },
+        {
+          "value": "./BulletStateMachine",
+          "resolved": "__unresolved_7",
+          "loc": {
+            "start": {
+              "line": 12,
+              "column": 35
+            },
+            "end": {
+              "line": 12,
+              "column": 57
+            }
+          }
+        },
+        {
+          "value": "../../Global/EventManager",
+          "resolved": "__unresolved_8",
+          "loc": {
+            "start": {
+              "line": 13,
+              "column": 25
+            },
+            "end": {
+              "line": 13,
+              "column": 52
+            }
+          }
+        },
+        {
+          "value": "../../Global/ObjectPoolManager",
+          "resolved": "__unresolved_9",
+          "loc": {
+            "start": {
+              "line": 14,
+              "column": 30
+            },
+            "end": {
+              "line": 14,
+              "column": 62
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Entity/Explosion/ExplosionManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Global/DataManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Common/index.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Base/EntityManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Enum/index.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Utils/index.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Entity/Bullet/BulletStateMachine.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Global/EventManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Global/ObjectPoolManager.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Entity/Bullet/BulletStateMachine.ts": {
+      "mTimestamp": {
+        "mtime": 1767851463531.6702,
+        "uuid": "0c702a68-4cdd-4b56-9835-d1c379c1bbaf"
+      },
+      "chunkId": "c0f880b51cd992a661157d5f8594a9e572ab413c",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 53
+            },
+            "end": {
+              "line": 1,
+              "column": 57
+            }
+          }
+        },
+        {
+          "value": "../../Enum",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 48
+            },
+            "end": {
+              "line": 3,
+              "column": 60
+            }
+          }
+        },
+        {
+          "value": "../../Base/StateMachine",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 51
+            },
+            "end": {
+              "line": 4,
+              "column": 76
+            }
+          }
+        },
+        {
+          "value": "../../Base/State",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 18
+            },
+            "end": {
+              "line": 5,
+              "column": 36
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Enum/index.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Base/StateMachine.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Base/State.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Entity/Explosion/ExplosionManager.ts": {
+      "mTimestamp": {
+        "mtime": 1767871298202.8882,
+        "uuid": "8e3dbd3a-e2d2-4787-b67a-b63c098a6d61"
+      },
+      "chunkId": "8b59884169f721675062cad26b28a1aa9e99af81",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 47
+            },
+            "end": {
+              "line": 2,
+              "column": 51
+            }
+          }
+        },
+        {
+          "value": "../../Base/EntityManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 30
+            },
+            "end": {
+              "line": 5,
+              "column": 56
+            }
+          }
+        },
+        {
+          "value": "../../Enum",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 59
+            },
+            "end": {
+              "line": 7,
+              "column": 71
+            }
+          }
+        },
+        {
+          "value": "./ExplosionStateMachine",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 12,
+              "column": 38
+            },
+            "end": {
+              "line": 12,
+              "column": 63
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Base/EntityManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Enum/index.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Entity/Explosion/ExplosionStateMachine.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Entity/Explosion/ExplosionStateMachine.ts": {
+      "mTimestamp": {
+        "mtime": 1767895880128.1555,
+        "uuid": "24ae67c0-d8f7-4186-a3c9-f29ed75623bf"
+      },
+      "chunkId": "92964c9cdcee9fb61f00ceed17f9e6dee977e41f",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 53
+            },
+            "end": {
+              "line": 1,
+              "column": 57
+            }
+          }
+        },
+        {
+          "value": "../../Enum",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 48
+            },
+            "end": {
+              "line": 3,
+              "column": 60
+            }
+          }
+        },
+        {
+          "value": "../../Base/StateMachine",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 51
+            },
+            "end": {
+              "line": 4,
+              "column": 76
+            }
+          }
+        },
+        {
+          "value": "../../Base/State",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 18
+            },
+            "end": {
+              "line": 5,
+              "column": 36
+            }
+          }
+        },
+        {
+          "value": "../../Global/ObjectPoolManager",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 30
+            },
+            "end": {
+              "line": 6,
+              "column": 62
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Enum/index.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Base/StateMachine.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Base/State.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Global/ObjectPoolManager.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Global/ObjectPoolManager.ts": {
+      "mTimestamp": {
+        "mtime": 1767895541597.7908,
+        "uuid": "3876fad2-7fd0-463d-9d72-9b5d37360cf8"
+      },
+      "chunkId": "2b0a0adf448335eaab24f58f1e58857e49105e91",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "../Base/Singleton",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 22
+            },
+            "end": {
+              "line": 3,
+              "column": 41
+            }
+          }
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 34
+            },
+            "end": {
+              "line": 6,
+              "column": 38
+            }
+          }
+        },
+        {
+          "value": "./DataManager",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 24
+            },
+            "end": {
+              "line": 7,
+              "column": 39
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Base/Singleton.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Global/DataManager.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Global/NetworkManager.ts": {
+      "mTimestamp": {
+        "mtime": 1768127136231.2688,
+        "uuid": "1d80d40e-2fa9-47d3-ba72-731e6e64b28b"
+      },
+      "chunkId": "1c00cecae125c2d635b5a95c4be8f37841aafece",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "../Base/Singleton",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 22
+            },
+            "end": {
+              "line": 2,
+              "column": 41
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Base/Singleton.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Scene/LoginManager.ts": {
+      "mTimestamp": {
+        "mtime": 1768053504163.889,
+        "uuid": "479f43a6-9baa-465e-ae50-4c2299d2e41f"
+      },
+      "chunkId": "25dcd1a30f1741c7a873dc635ff5f06ef1e5495b",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 70
+            },
+            "end": {
+              "line": 2,
+              "column": 74
+            }
+          }
+        },
+        {
+          "value": "../Global/NetworkManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 31
+            },
+            "end": {
+              "line": 3,
+              "column": 57
+            }
+          }
+        },
+        {
+          "value": "../Common",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 27
+            },
+            "end": {
+              "line": 4,
+              "column": 38
+            }
+          }
+        },
+        {
+          "value": "../Global/DataManager",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 24
+            },
+            "end": {
+              "line": 5,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "../Enum",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 26
+            },
+            "end": {
+              "line": 6,
+              "column": 35
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Global/NetworkManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Common/index.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Global/DataManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Enum/index.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Common/Api.ts": {
+      "mTimestamp": {
+        "mtime": 1768104798111.4968,
+        "uuid": "0157197d-1a9b-46a5-ada8-e0728f10fae0"
+      },
+      "chunkId": "3154ace30258dc7136febea6972af05280946ca8",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Common/IModel.ts": {
+      "mTimestamp": {
+        "mtime": 1768105271857.6477,
+        "uuid": "6dc2ed6a-8922-4bbb-9003-f1140d75d55c"
+      },
+      "chunkId": "57fec38d604244e08753adc34f28d36f8e96028a",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "./Enum",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 27
+            },
+            "end": {
+              "line": 2,
+              "column": 35
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Common/Enum.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Common/Msg.ts": {
+      "mTimestamp": {
+        "mtime": 1768105260817.6292,
+        "uuid": "4d52de00-d4f3-4223-b116-7a9438e37352"
+      },
+      "chunkId": "2ad7e177db863298897cca6adfbb8d2e11400029",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Scene/HallManager.ts": {
+      "mTimestamp": {
+        "mtime": 1768106350621.6365,
+        "uuid": "b78a9c9b-e851-413f-ba0c-776f9e882116"
+      },
+      "chunkId": "c6943f8abe2783ceed58933586a92ea50e8d149c",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 82
+            },
+            "end": {
+              "line": 1,
+              "column": 86
+            }
+          }
+        },
+        {
+          "value": "../Global/NetworkManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 31
+            },
+            "end": {
+              "line": 2,
+              "column": 57
+            }
+          }
+        },
+        {
+          "value": "../Common",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 63
+            },
+            "end": {
+              "line": 3,
+              "column": 74
+            }
+          }
+        },
+        {
+          "value": "../UI/PlayerManager",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 30
+            },
+            "end": {
+              "line": 4,
+              "column": 51
+            }
+          }
+        },
+        {
+          "value": "../Global/DataManager",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 24
+            },
+            "end": {
+              "line": 5,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "../Enum",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 37
+            },
+            "end": {
+              "line": 6,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "../UI/RoomManager",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 28
+            },
+            "end": {
+              "line": 7,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "../Global/EventManager",
+          "resolved": "__unresolved_7",
+          "loc": {
+            "start": {
+              "line": 8,
+              "column": 25
+            },
+            "end": {
+              "line": 8,
+              "column": 49
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Global/NetworkManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Common/index.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/UI/PlayerManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Global/DataManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Enum/index.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/UI/RoomManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Global/EventManager.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/UI/PlayerManager.ts": {
+      "mTimestamp": {
+        "mtime": 1768056512894.6096,
+        "uuid": "a425d1f1-056c-4f16-a9e8-d1cba751e93d"
+      },
+      "chunkId": "c6dba1f43578071248587b7762099ce7d6dd2e1b",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 46
+            },
+            "end": {
+              "line": 1,
+              "column": 50
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/UI/RoomManager.ts": {
+      "mTimestamp": {
+        "mtime": 1768106004434.557,
+        "uuid": "d1ef36c6-d8d2-4926-a7d1-daacd85d0f9c"
+      },
+      "chunkId": "82161337afeea4d64ed5a96ef1d11fc94c56263d",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 51
+            },
+            "end": {
+              "line": 1,
+              "column": 55
+            }
+          }
+        },
+        {
+          "value": "../Global/EventManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 25
+            },
+            "end": {
+              "line": 3,
+              "column": 49
+            }
+          }
+        },
+        {
+          "value": "../Enum",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 26
+            },
+            "end": {
+              "line": 4,
+              "column": 35
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Global/EventManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Enum/index.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Scene/RoomManager.ts": {
+      "mTimestamp": {
+        "mtime": 1768126934531.9402,
+        "uuid": "7785d8fd-c8fa-4057-b386-43d818ea5e6a"
+      },
+      "chunkId": "052d5bcb24a81f491484d6ffee4d3580d24228ad",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 75
+            },
+            "end": {
+              "line": 2,
+              "column": 79
+            }
+          }
+        },
+        {
+          "value": "../Global/NetworkManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 31
+            },
+            "end": {
+              "line": 3,
+              "column": 57
+            }
+          }
+        },
+        {
+          "value": "../Common",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 52
+            },
+            "end": {
+              "line": 4,
+              "column": 63
+            }
+          }
+        },
+        {
+          "value": "../UI/PlayerManager",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 30
+            },
+            "end": {
+              "line": 5,
+              "column": 51
+            }
+          }
+        },
+        {
+          "value": "../Global/DataManager",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 24
+            },
+            "end": {
+              "line": 6,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "../Enum",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 8,
+              "column": 37
+            },
+            "end": {
+              "line": 8,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "../Utils",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 9,
+              "column": 26
+            },
+            "end": {
+              "line": 9,
+              "column": 36
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Global/NetworkManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Common/index.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/UI/PlayerManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Global/DataManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Enum/index.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Utils/index.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProject/cocos-nodejs-io-game-start-demo-master/apps/client/assets/Scripts/Common/Util.ts": {
+      "mTimestamp": {
+        "mtime": 1768127483944.6646,
+        "uuid": "1e24b78b-b299-461c-b28f-50c904e709c6"
+      },
+      "chunkId": "32f262365640b277faf690530fbb1b253e00df97",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    }
+  }
+}

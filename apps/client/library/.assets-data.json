@@ -1,0 +1,1836 @@
+{
+  "361398e8-25a2-4476-a5dd-833ff68e087b": {
+    "url": "db://assets/resources",
+    "value": {},
+    "versionCode": 1
+  },
+  "a5ff1131-2769-49ad-92d3-4d7f4b7c2b24": {
+    "url": "db://assets/Scripts",
+    "value": {},
+    "versionCode": 1
+  },
+  "d7f1d6a2-3440-4dbb-aab0-6217739e019d": {
+    "url": "db://assets/resources/texture",
+    "value": {},
+    "versionCode": 1
+  },
+  "b9842cc1-d805-42af-b6b9-b15d5dd32f65": {
+    "url": "db://assets/Scripts/Base",
+    "value": {},
+    "versionCode": 1
+  },
+  "5b95c11b-0954-45ac-99ba-98df4825c906": {
+    "url": "db://assets/Scripts/Enum",
+    "value": {},
+    "versionCode": 1
+  },
+  "6262be8a-effd-4208-89cd-6532b055b4a0": {
+    "url": "db://assets/Scripts/Global",
+    "value": {},
+    "versionCode": 1
+  },
+  "f395bd07-24d1-424e-bf3c-3276de3d9d22": {
+    "url": "db://assets/Scripts/Utils",
+    "value": {},
+    "versionCode": 1
+  },
+  "4314662e-d411-4396-bd0a-ce13820a5745": {
+    "url": "db://assets/resources/texture/actor",
+    "value": {},
+    "versionCode": 1
+  },
+  "36488b93-05fd-4191-af7b-297d24da5847": {
+    "url": "db://assets/resources/texture/bg",
+    "value": {},
+    "versionCode": 1
+  },
+  "a0a010bb-d1c0-4efa-a55f-ee60438f492e": {
+    "url": "db://assets/resources/texture/bullet",
+    "value": {},
+    "versionCode": 1
+  },
+  "fe6330d8-92bb-4d96-a162-30010e542247": {
+    "url": "db://assets/resources/texture/explosion",
+    "value": {},
+    "versionCode": 1
+  },
+  "b2041c87-dac4-445e-a3ac-e6689804c3b4": {
+    "url": "db://assets/resources/texture/joystick",
+    "value": {},
+    "versionCode": 1
+  },
+  "c3b32cc3-fa22-4efd-a481-c5876d5cced3": {
+    "url": "db://assets/resources/texture/weapon",
+    "value": {},
+    "versionCode": 1
+  },
+  "458c6587-cf17-4ea1-8816-5319ffa4bec0": {
+    "url": "db://assets/resources/texture/actor/actor1",
+    "value": {},
+    "versionCode": 1
+  },
+  "d539fe31-35be-459b-af9e-b1c5ce8049dd": {
+    "url": "db://assets/resources/texture/actor/actor2",
+    "value": {},
+    "versionCode": 1
+  },
+  "fd66628c-bd95-4709-ab7d-a050731228e4": {
+    "url": "db://assets/resources/texture/bullet/bullet1",
+    "value": {},
+    "versionCode": 1
+  },
+  "7bc2b36a-1f9e-4c27-b679-7f78f1b9d8ed": {
+    "url": "db://assets/resources/texture/bullet/bullet2",
+    "value": {},
+    "versionCode": 1
+  },
+  "fb8659d0-2770-4f82-bfb4-2bd2c183f241": {
+    "url": "db://assets/resources/texture/weapon/weapon1",
+    "value": {},
+    "versionCode": 1
+  },
+  "7249fc9e-d7c5-4ecf-b450-99ae0a17c417": {
+    "url": "db://assets/resources/texture/weapon/weapon2",
+    "value": {},
+    "versionCode": 1
+  },
+  "771d5be3-e4c5-43c9-9025-da4338f0bd9c": {
+    "url": "db://assets/resources/texture/actor/actor1/idle",
+    "value": {},
+    "versionCode": 1
+  },
+  "977efd2e-276e-4c70-81c1-e539532a595b": {
+    "url": "db://assets/resources/texture/actor/actor1/run",
+    "value": {},
+    "versionCode": 1
+  },
+  "a2fc4f9e-f98d-42df-b47c-42c5d6c60eb4": {
+    "url": "db://assets/resources/texture/actor/actor2/idle",
+    "value": {},
+    "versionCode": 1
+  },
+  "c957e484-e081-4832-a24d-6541bd2f40d4": {
+    "url": "db://assets/resources/texture/actor/actor2/run",
+    "value": {},
+    "versionCode": 1
+  },
+  "0ed73ab4-b2c1-4624-a5b8-c5f31394d8fa": {
+    "url": "db://assets/resources/texture/weapon/weapon1/attack",
+    "value": {},
+    "versionCode": 1
+  },
+  "7b876fea-1bd1-41a0-93a8-bd20d64d7bc3": {
+    "url": "db://assets/resources/texture/weapon/weapon1/idle",
+    "value": {},
+    "versionCode": 1
+  },
+  "b82f00e2-ef64-4845-9455-b855caa49483": {
+    "url": "db://assets/resources/texture/weapon/weapon2/attack",
+    "value": {},
+    "versionCode": 1
+  },
+  "6248c4f2-da4b-42af-99f1-a929b1c32404": {
+    "url": "db://assets/resources/texture/weapon/weapon2/idle",
+    "value": {},
+    "versionCode": 1
+  },
+  "48c75f9a-9215-4519-9d61-13bc8eeedc2f": {
+    "url": "db://assets/scene-2d.scene",
+    "value": {},
+    "versionCode": 1
+  },
+  "2e4eed53-d1b9-42ef-97aa-8d0a8da927f7": {
+    "url": "db://assets/Scripts/Base/EntityManager.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "0ee5b84a-8971-410f-a39d-2cf96597dd45": {
+    "url": "db://assets/Scripts/Base/Singleton.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "226c1921-1459-4764-82e6-b1a11c5a73c2": {
+    "url": "db://assets/Scripts/Base/State.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "66538d45-0fcf-4ed2-8e47-a0a688ddaf3c": {
+    "url": "db://assets/Scripts/Base/StateMachine.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "ff33a799-6908-4d1d-902b-f36aec10d4de": {
+    "url": "db://assets/Scripts/Base/StateMachineTemplate.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "7f9fac71-9820-41b2-8b4d-2dc4185414ef": {
+    "url": "db://assets/Scripts/Base/SubStateMachine.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "393286c2-7b09-44d1-955f-049e7e5b36ea": {
+    "url": "db://assets/Scripts/Enum/index.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "1682ed16-4e4f-46b3-8aca-92baecd30b9d": {
+    "url": "db://assets/Scripts/Global/DataManager.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "2aa2e7de-b014-4ee7-a537-4bc99dbf9164": {
+    "url": "db://assets/Scripts/Global/EventManager.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "6278727d-3641-46d1-ae43-52b7829402d1": {
+    "url": "db://assets/Scripts/Global/ResourceManager.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "2e280f2e-52a3-465a-acf5-fb412ef51d6b": {
+    "url": "db://assets/Scripts/Utils/index.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "155ebd7e-9357-4155-acfc-fb5438af3d48": {
+    "url": "db://assets/resources/texture/bg/tile.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "2c4e3bb3-7336-4d4e-a8d7-3eafa95d846f": {
+    "url": "db://assets/resources/texture/explosion/explosion (1).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "0d43b4ea-a63d-4ebd-a25b-a93f85f86af4": {
+    "url": "db://assets/resources/texture/explosion/explosion (2).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "69cdfa26-ab4f-4836-a719-5cbfdd4ce626": {
+    "url": "db://assets/resources/texture/explosion/explosion (3).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "d0e55505-9d16-4c58-8769-69427fb8c951": {
+    "url": "db://assets/resources/texture/explosion/explosion (4).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "155ebd7e-9357-4155-acfc-fb5438af3d48@6c48a": {
+    "url": "db://assets/resources/texture/bg/tile.png@6c48a",
+    "value": {
+      "depends": [
+        "155ebd7e-9357-4155-acfc-fb5438af3d48"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0d43b4ea-a63d-4ebd-a25b-a93f85f86af4@6c48a": {
+    "url": "db://assets/resources/texture/explosion/explosion (2).png@6c48a",
+    "value": {
+      "depends": [
+        "0d43b4ea-a63d-4ebd-a25b-a93f85f86af4"
+      ]
+    },
+    "versionCode": 1
+  },
+  "2c4e3bb3-7336-4d4e-a8d7-3eafa95d846f@6c48a": {
+    "url": "db://assets/resources/texture/explosion/explosion (1).png@6c48a",
+    "value": {
+      "depends": [
+        "2c4e3bb3-7336-4d4e-a8d7-3eafa95d846f"
+      ]
+    },
+    "versionCode": 1
+  },
+  "69cdfa26-ab4f-4836-a719-5cbfdd4ce626@6c48a": {
+    "url": "db://assets/resources/texture/explosion/explosion (3).png@6c48a",
+    "value": {
+      "depends": [
+        "69cdfa26-ab4f-4836-a719-5cbfdd4ce626"
+      ]
+    },
+    "versionCode": 1
+  },
+  "155ebd7e-9357-4155-acfc-fb5438af3d48@f9941": {
+    "url": "db://assets/resources/texture/bg/tile.png@f9941",
+    "value": {
+      "depends": [
+        "155ebd7e-9357-4155-acfc-fb5438af3d48@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "facbf03e-9de3-43de-a995-1888b494e0b9": {
+    "url": "db://assets/resources/texture/explosion/explosion (5).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "0d43b4ea-a63d-4ebd-a25b-a93f85f86af4@f9941": {
+    "url": "db://assets/resources/texture/explosion/explosion (2).png@f9941",
+    "value": {
+      "depends": [
+        "0d43b4ea-a63d-4ebd-a25b-a93f85f86af4@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f325e61c-afa9-4bed-a69d-bd8835d78629": {
+    "url": "db://assets/resources/texture/explosion/explosion (6).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "d0e55505-9d16-4c58-8769-69427fb8c951@6c48a": {
+    "url": "db://assets/resources/texture/explosion/explosion (4).png@6c48a",
+    "value": {
+      "depends": [
+        "d0e55505-9d16-4c58-8769-69427fb8c951"
+      ]
+    },
+    "versionCode": 1
+  },
+  "69cdfa26-ab4f-4836-a719-5cbfdd4ce626@f9941": {
+    "url": "db://assets/resources/texture/explosion/explosion (3).png@f9941",
+    "value": {
+      "depends": [
+        "69cdfa26-ab4f-4836-a719-5cbfdd4ce626@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "2c4e3bb3-7336-4d4e-a8d7-3eafa95d846f@f9941": {
+    "url": "db://assets/resources/texture/explosion/explosion (1).png@f9941",
+    "value": {
+      "depends": [
+        "2c4e3bb3-7336-4d4e-a8d7-3eafa95d846f@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "22cdc5d6-72e9-4c27-aaab-d8702321c131": {
+    "url": "db://assets/resources/texture/explosion/explosion (7).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "d9e82fae-bcb5-4fed-82a9-fbed98c5e079": {
+    "url": "db://assets/resources/texture/joystick/circle.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "d0e55505-9d16-4c58-8769-69427fb8c951@f9941": {
+    "url": "db://assets/resources/texture/explosion/explosion (4).png@f9941",
+    "value": {
+      "depends": [
+        "d0e55505-9d16-4c58-8769-69427fb8c951@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "23c36f17-b533-41fc-ada4-4c3408ec5597": {
+    "url": "db://assets/resources/texture/bullet/bullet1/bullet1 (1).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "facbf03e-9de3-43de-a995-1888b494e0b9@6c48a": {
+    "url": "db://assets/resources/texture/explosion/explosion (5).png@6c48a",
+    "value": {
+      "depends": [
+        "facbf03e-9de3-43de-a995-1888b494e0b9"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f325e61c-afa9-4bed-a69d-bd8835d78629@6c48a": {
+    "url": "db://assets/resources/texture/explosion/explosion (6).png@6c48a",
+    "value": {
+      "depends": [
+        "f325e61c-afa9-4bed-a69d-bd8835d78629"
+      ]
+    },
+    "versionCode": 1
+  },
+  "22cdc5d6-72e9-4c27-aaab-d8702321c131@6c48a": {
+    "url": "db://assets/resources/texture/explosion/explosion (7).png@6c48a",
+    "value": {
+      "depends": [
+        "22cdc5d6-72e9-4c27-aaab-d8702321c131"
+      ]
+    },
+    "versionCode": 1
+  },
+  "facbf03e-9de3-43de-a995-1888b494e0b9@f9941": {
+    "url": "db://assets/resources/texture/explosion/explosion (5).png@f9941",
+    "value": {
+      "depends": [
+        "facbf03e-9de3-43de-a995-1888b494e0b9@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c15456b3-2df6-44f1-bb74-5fec2d554675": {
+    "url": "db://assets/resources/texture/bullet/bullet2/bullet2 (1).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "23c36f17-b533-41fc-ada4-4c3408ec5597@6c48a": {
+    "url": "db://assets/resources/texture/bullet/bullet1/bullet1 (1).png@6c48a",
+    "value": {
+      "depends": [
+        "23c36f17-b533-41fc-ada4-4c3408ec5597"
+      ]
+    },
+    "versionCode": 1
+  },
+  "d9e82fae-bcb5-4fed-82a9-fbed98c5e079@6c48a": {
+    "url": "db://assets/resources/texture/joystick/circle.png@6c48a",
+    "value": {
+      "depends": [
+        "d9e82fae-bcb5-4fed-82a9-fbed98c5e079"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f325e61c-afa9-4bed-a69d-bd8835d78629@f9941": {
+    "url": "db://assets/resources/texture/explosion/explosion (6).png@f9941",
+    "value": {
+      "depends": [
+        "f325e61c-afa9-4bed-a69d-bd8835d78629@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f0f5e564-2d98-4de1-bb92-794eeb1acffc": {
+    "url": "db://assets/resources/texture/actor/actor1/idle/idle (1).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "22cdc5d6-72e9-4c27-aaab-d8702321c131@f9941": {
+    "url": "db://assets/resources/texture/explosion/explosion (7).png@f9941",
+    "value": {
+      "depends": [
+        "22cdc5d6-72e9-4c27-aaab-d8702321c131@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "948973f1-d0d7-4009-a6ac-b75d81682b06": {
+    "url": "db://assets/resources/texture/actor/actor1/idle/idle (2).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "23c36f17-b533-41fc-ada4-4c3408ec5597@f9941": {
+    "url": "db://assets/resources/texture/bullet/bullet1/bullet1 (1).png@f9941",
+    "value": {
+      "depends": [
+        "23c36f17-b533-41fc-ada4-4c3408ec5597@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "fbd2f8e1-fcfb-4833-88f6-1d2aabc7d208": {
+    "url": "db://assets/resources/texture/actor/actor1/idle/idle (3).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "d9e82fae-bcb5-4fed-82a9-fbed98c5e079@f9941": {
+    "url": "db://assets/resources/texture/joystick/circle.png@f9941",
+    "value": {
+      "depends": [
+        "d9e82fae-bcb5-4fed-82a9-fbed98c5e079@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "3f793c28-7ba4-49a0-8bfd-f39c447a3d24": {
+    "url": "db://assets/resources/texture/actor/actor1/idle/idle (4).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "f0f5e564-2d98-4de1-bb92-794eeb1acffc@6c48a": {
+    "url": "db://assets/resources/texture/actor/actor1/idle/idle (1).png@6c48a",
+    "value": {
+      "depends": [
+        "f0f5e564-2d98-4de1-bb92-794eeb1acffc"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c15456b3-2df6-44f1-bb74-5fec2d554675@6c48a": {
+    "url": "db://assets/resources/texture/bullet/bullet2/bullet2 (1).png@6c48a",
+    "value": {
+      "depends": [
+        "c15456b3-2df6-44f1-bb74-5fec2d554675"
+      ]
+    },
+    "versionCode": 1
+  },
+  "948973f1-d0d7-4009-a6ac-b75d81682b06@6c48a": {
+    "url": "db://assets/resources/texture/actor/actor1/idle/idle (2).png@6c48a",
+    "value": {
+      "depends": [
+        "948973f1-d0d7-4009-a6ac-b75d81682b06"
+      ]
+    },
+    "versionCode": 1
+  },
+  "fbd2f8e1-fcfb-4833-88f6-1d2aabc7d208@6c48a": {
+    "url": "db://assets/resources/texture/actor/actor1/idle/idle (3).png@6c48a",
+    "value": {
+      "depends": [
+        "fbd2f8e1-fcfb-4833-88f6-1d2aabc7d208"
+      ]
+    },
+    "versionCode": 1
+  },
+  "3f793c28-7ba4-49a0-8bfd-f39c447a3d24@6c48a": {
+    "url": "db://assets/resources/texture/actor/actor1/idle/idle (4).png@6c48a",
+    "value": {
+      "depends": [
+        "3f793c28-7ba4-49a0-8bfd-f39c447a3d24"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f0f5e564-2d98-4de1-bb92-794eeb1acffc@f9941": {
+    "url": "db://assets/resources/texture/actor/actor1/idle/idle (1).png@f9941",
+    "value": {
+      "depends": [
+        "f0f5e564-2d98-4de1-bb92-794eeb1acffc@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "48566660-84d3-45f0-9779-232d13bba3b4": {
+    "url": "db://assets/resources/texture/actor/actor1/idle/idle (5).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "c15456b3-2df6-44f1-bb74-5fec2d554675@f9941": {
+    "url": "db://assets/resources/texture/bullet/bullet2/bullet2 (1).png@f9941",
+    "value": {
+      "depends": [
+        "c15456b3-2df6-44f1-bb74-5fec2d554675@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "1c6c1425-ca03-45c3-b9b3-01ad71034032": {
+    "url": "db://assets/resources/texture/actor/actor1/idle/idle (6).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "948973f1-d0d7-4009-a6ac-b75d81682b06@f9941": {
+    "url": "db://assets/resources/texture/actor/actor1/idle/idle (2).png@f9941",
+    "value": {
+      "depends": [
+        "948973f1-d0d7-4009-a6ac-b75d81682b06@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "030f870c-7083-4e63-af9c-0c8e4406b231": {
+    "url": "db://assets/resources/texture/actor/actor1/run/run (1).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "3f793c28-7ba4-49a0-8bfd-f39c447a3d24@f9941": {
+    "url": "db://assets/resources/texture/actor/actor1/idle/idle (4).png@f9941",
+    "value": {
+      "depends": [
+        "3f793c28-7ba4-49a0-8bfd-f39c447a3d24@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "fbd2f8e1-fcfb-4833-88f6-1d2aabc7d208@f9941": {
+    "url": "db://assets/resources/texture/actor/actor1/idle/idle (3).png@f9941",
+    "value": {
+      "depends": [
+        "fbd2f8e1-fcfb-4833-88f6-1d2aabc7d208@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "38dbf9d6-4b70-4898-a328-ae498501ddbd": {
+    "url": "db://assets/resources/texture/actor/actor1/run/run (2).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "07c0120a-620d-4d1d-b128-a2ffebffb96b": {
+    "url": "db://assets/resources/texture/actor/actor1/run/run (3).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "48566660-84d3-45f0-9779-232d13bba3b4@6c48a": {
+    "url": "db://assets/resources/texture/actor/actor1/idle/idle (5).png@6c48a",
+    "value": {
+      "depends": [
+        "48566660-84d3-45f0-9779-232d13bba3b4"
+      ]
+    },
+    "versionCode": 1
+  },
+  "1c6c1425-ca03-45c3-b9b3-01ad71034032@6c48a": {
+    "url": "db://assets/resources/texture/actor/actor1/idle/idle (6).png@6c48a",
+    "value": {
+      "depends": [
+        "1c6c1425-ca03-45c3-b9b3-01ad71034032"
+      ]
+    },
+    "versionCode": 1
+  },
+  "030f870c-7083-4e63-af9c-0c8e4406b231@6c48a": {
+    "url": "db://assets/resources/texture/actor/actor1/run/run (1).png@6c48a",
+    "value": {
+      "depends": [
+        "030f870c-7083-4e63-af9c-0c8e4406b231"
+      ]
+    },
+    "versionCode": 1
+  },
+  "07c0120a-620d-4d1d-b128-a2ffebffb96b@6c48a": {
+    "url": "db://assets/resources/texture/actor/actor1/run/run (3).png@6c48a",
+    "value": {
+      "depends": [
+        "07c0120a-620d-4d1d-b128-a2ffebffb96b"
+      ]
+    },
+    "versionCode": 1
+  },
+  "48566660-84d3-45f0-9779-232d13bba3b4@f9941": {
+    "url": "db://assets/resources/texture/actor/actor1/idle/idle (5).png@f9941",
+    "value": {
+      "depends": [
+        "48566660-84d3-45f0-9779-232d13bba3b4@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "06848286-3132-4ffa-bd9c-eba5eefd6ffe": {
+    "url": "db://assets/resources/texture/actor/actor1/run/run (4).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "38dbf9d6-4b70-4898-a328-ae498501ddbd@6c48a": {
+    "url": "db://assets/resources/texture/actor/actor1/run/run (2).png@6c48a",
+    "value": {
+      "depends": [
+        "38dbf9d6-4b70-4898-a328-ae498501ddbd"
+      ]
+    },
+    "versionCode": 1
+  },
+  "1c6c1425-ca03-45c3-b9b3-01ad71034032@f9941": {
+    "url": "db://assets/resources/texture/actor/actor1/idle/idle (6).png@f9941",
+    "value": {
+      "depends": [
+        "1c6c1425-ca03-45c3-b9b3-01ad71034032@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "b545a1fc-5a8d-4b87-9f08-58193ef8f8a3": {
+    "url": "db://assets/resources/texture/actor/actor1/run/run (5).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "030f870c-7083-4e63-af9c-0c8e4406b231@f9941": {
+    "url": "db://assets/resources/texture/actor/actor1/run/run (1).png@f9941",
+    "value": {
+      "depends": [
+        "030f870c-7083-4e63-af9c-0c8e4406b231@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "98e36b14-a53b-4cdb-9787-4aac1911fa7c": {
+    "url": "db://assets/resources/texture/actor/actor1/run/run (6).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "07c0120a-620d-4d1d-b128-a2ffebffb96b@f9941": {
+    "url": "db://assets/resources/texture/actor/actor1/run/run (3).png@f9941",
+    "value": {
+      "depends": [
+        "07c0120a-620d-4d1d-b128-a2ffebffb96b@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "4bcec6e4-8ae3-4dc6-b680-230fb0e5cba1": {
+    "url": "db://assets/resources/texture/actor/actor2/idle/idle (1).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "38dbf9d6-4b70-4898-a328-ae498501ddbd@f9941": {
+    "url": "db://assets/resources/texture/actor/actor1/run/run (2).png@f9941",
+    "value": {
+      "depends": [
+        "38dbf9d6-4b70-4898-a328-ae498501ddbd@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "859e1dcd-5f25-46ce-bfb2-2fce53acd3ab": {
+    "url": "db://assets/resources/texture/actor/actor2/idle/idle (2).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "06848286-3132-4ffa-bd9c-eba5eefd6ffe@6c48a": {
+    "url": "db://assets/resources/texture/actor/actor1/run/run (4).png@6c48a",
+    "value": {
+      "depends": [
+        "06848286-3132-4ffa-bd9c-eba5eefd6ffe"
+      ]
+    },
+    "versionCode": 1
+  },
+  "b545a1fc-5a8d-4b87-9f08-58193ef8f8a3@6c48a": {
+    "url": "db://assets/resources/texture/actor/actor1/run/run (5).png@6c48a",
+    "value": {
+      "depends": [
+        "b545a1fc-5a8d-4b87-9f08-58193ef8f8a3"
+      ]
+    },
+    "versionCode": 1
+  },
+  "859e1dcd-5f25-46ce-bfb2-2fce53acd3ab@6c48a": {
+    "url": "db://assets/resources/texture/actor/actor2/idle/idle (2).png@6c48a",
+    "value": {
+      "depends": [
+        "859e1dcd-5f25-46ce-bfb2-2fce53acd3ab"
+      ]
+    },
+    "versionCode": 1
+  },
+  "4bcec6e4-8ae3-4dc6-b680-230fb0e5cba1@6c48a": {
+    "url": "db://assets/resources/texture/actor/actor2/idle/idle (1).png@6c48a",
+    "value": {
+      "depends": [
+        "4bcec6e4-8ae3-4dc6-b680-230fb0e5cba1"
+      ]
+    },
+    "versionCode": 1
+  },
+  "06848286-3132-4ffa-bd9c-eba5eefd6ffe@f9941": {
+    "url": "db://assets/resources/texture/actor/actor1/run/run (4).png@f9941",
+    "value": {
+      "depends": [
+        "06848286-3132-4ffa-bd9c-eba5eefd6ffe@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "8e5e2721-dd1b-4104-a176-e8724688e705": {
+    "url": "db://assets/resources/texture/actor/actor2/idle/idle (3).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "b545a1fc-5a8d-4b87-9f08-58193ef8f8a3@f9941": {
+    "url": "db://assets/resources/texture/actor/actor1/run/run (5).png@f9941",
+    "value": {
+      "depends": [
+        "b545a1fc-5a8d-4b87-9f08-58193ef8f8a3@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ad1888b4-e372-4e48-bbeb-5f33b0fb50bf": {
+    "url": "db://assets/resources/texture/actor/actor2/idle/idle (4).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "98e36b14-a53b-4cdb-9787-4aac1911fa7c@6c48a": {
+    "url": "db://assets/resources/texture/actor/actor1/run/run (6).png@6c48a",
+    "value": {
+      "depends": [
+        "98e36b14-a53b-4cdb-9787-4aac1911fa7c"
+      ]
+    },
+    "versionCode": 1
+  },
+  "859e1dcd-5f25-46ce-bfb2-2fce53acd3ab@f9941": {
+    "url": "db://assets/resources/texture/actor/actor2/idle/idle (2).png@f9941",
+    "value": {
+      "depends": [
+        "859e1dcd-5f25-46ce-bfb2-2fce53acd3ab@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "4bcec6e4-8ae3-4dc6-b680-230fb0e5cba1@f9941": {
+    "url": "db://assets/resources/texture/actor/actor2/idle/idle (1).png@f9941",
+    "value": {
+      "depends": [
+        "4bcec6e4-8ae3-4dc6-b680-230fb0e5cba1@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "42bedea5-98e7-4c7c-bba4-2733775c4d1b": {
+    "url": "db://assets/resources/texture/actor/actor2/idle/idle (5).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "a70a2ba8-14bc-4613-a6bf-e914fca9ae9a": {
+    "url": "db://assets/resources/texture/actor/actor2/idle/idle (6).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "98e36b14-a53b-4cdb-9787-4aac1911fa7c@f9941": {
+    "url": "db://assets/resources/texture/actor/actor1/run/run (6).png@f9941",
+    "value": {
+      "depends": [
+        "98e36b14-a53b-4cdb-9787-4aac1911fa7c@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "089afa87-f56d-4038-950c-0a3c3d625b43": {
+    "url": "db://assets/resources/texture/actor/actor2/run/run (1).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "8e5e2721-dd1b-4104-a176-e8724688e705@6c48a": {
+    "url": "db://assets/resources/texture/actor/actor2/idle/idle (3).png@6c48a",
+    "value": {
+      "depends": [
+        "8e5e2721-dd1b-4104-a176-e8724688e705"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ad1888b4-e372-4e48-bbeb-5f33b0fb50bf@6c48a": {
+    "url": "db://assets/resources/texture/actor/actor2/idle/idle (4).png@6c48a",
+    "value": {
+      "depends": [
+        "ad1888b4-e372-4e48-bbeb-5f33b0fb50bf"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a70a2ba8-14bc-4613-a6bf-e914fca9ae9a@6c48a": {
+    "url": "db://assets/resources/texture/actor/actor2/idle/idle (6).png@6c48a",
+    "value": {
+      "depends": [
+        "a70a2ba8-14bc-4613-a6bf-e914fca9ae9a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "42bedea5-98e7-4c7c-bba4-2733775c4d1b@6c48a": {
+    "url": "db://assets/resources/texture/actor/actor2/idle/idle (5).png@6c48a",
+    "value": {
+      "depends": [
+        "42bedea5-98e7-4c7c-bba4-2733775c4d1b"
+      ]
+    },
+    "versionCode": 1
+  },
+  "8e5e2721-dd1b-4104-a176-e8724688e705@f9941": {
+    "url": "db://assets/resources/texture/actor/actor2/idle/idle (3).png@f9941",
+    "value": {
+      "depends": [
+        "8e5e2721-dd1b-4104-a176-e8724688e705@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "dde508f5-9208-42ee-aa19-e388489f0d5d": {
+    "url": "db://assets/resources/texture/actor/actor2/run/run (2).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "ad1888b4-e372-4e48-bbeb-5f33b0fb50bf@f9941": {
+    "url": "db://assets/resources/texture/actor/actor2/idle/idle (4).png@f9941",
+    "value": {
+      "depends": [
+        "ad1888b4-e372-4e48-bbeb-5f33b0fb50bf@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "547581ee-f0ef-4cc0-a168-1a821008dc00": {
+    "url": "db://assets/resources/texture/actor/actor2/run/run (3).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "089afa87-f56d-4038-950c-0a3c3d625b43@6c48a": {
+    "url": "db://assets/resources/texture/actor/actor2/run/run (1).png@6c48a",
+    "value": {
+      "depends": [
+        "089afa87-f56d-4038-950c-0a3c3d625b43"
+      ]
+    },
+    "versionCode": 1
+  },
+  "42bedea5-98e7-4c7c-bba4-2733775c4d1b@f9941": {
+    "url": "db://assets/resources/texture/actor/actor2/idle/idle (5).png@f9941",
+    "value": {
+      "depends": [
+        "42bedea5-98e7-4c7c-bba4-2733775c4d1b@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a70a2ba8-14bc-4613-a6bf-e914fca9ae9a@f9941": {
+    "url": "db://assets/resources/texture/actor/actor2/idle/idle (6).png@f9941",
+    "value": {
+      "depends": [
+        "a70a2ba8-14bc-4613-a6bf-e914fca9ae9a@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "2f8cf8e1-92d9-422b-9ccb-444e0d7578e5": {
+    "url": "db://assets/resources/texture/actor/actor2/run/run (4).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "ba54e885-1a08-47f1-b009-83b2763e209c": {
+    "url": "db://assets/resources/texture/actor/actor2/run/run (5).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "089afa87-f56d-4038-950c-0a3c3d625b43@f9941": {
+    "url": "db://assets/resources/texture/actor/actor2/run/run (1).png@f9941",
+    "value": {
+      "depends": [
+        "089afa87-f56d-4038-950c-0a3c3d625b43@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0ce683e1-3afe-44ff-b24f-0be7ae40e49a": {
+    "url": "db://assets/resources/texture/actor/actor2/run/run (6).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "dde508f5-9208-42ee-aa19-e388489f0d5d@6c48a": {
+    "url": "db://assets/resources/texture/actor/actor2/run/run (2).png@6c48a",
+    "value": {
+      "depends": [
+        "dde508f5-9208-42ee-aa19-e388489f0d5d"
+      ]
+    },
+    "versionCode": 1
+  },
+  "547581ee-f0ef-4cc0-a168-1a821008dc00@6c48a": {
+    "url": "db://assets/resources/texture/actor/actor2/run/run (3).png@6c48a",
+    "value": {
+      "depends": [
+        "547581ee-f0ef-4cc0-a168-1a821008dc00"
+      ]
+    },
+    "versionCode": 1
+  },
+  "2f8cf8e1-92d9-422b-9ccb-444e0d7578e5@6c48a": {
+    "url": "db://assets/resources/texture/actor/actor2/run/run (4).png@6c48a",
+    "value": {
+      "depends": [
+        "2f8cf8e1-92d9-422b-9ccb-444e0d7578e5"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ba54e885-1a08-47f1-b009-83b2763e209c@6c48a": {
+    "url": "db://assets/resources/texture/actor/actor2/run/run (5).png@6c48a",
+    "value": {
+      "depends": [
+        "ba54e885-1a08-47f1-b009-83b2763e209c"
+      ]
+    },
+    "versionCode": 1
+  },
+  "dde508f5-9208-42ee-aa19-e388489f0d5d@f9941": {
+    "url": "db://assets/resources/texture/actor/actor2/run/run (2).png@f9941",
+    "value": {
+      "depends": [
+        "dde508f5-9208-42ee-aa19-e388489f0d5d@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "2c2efb05-aaa7-4c95-8186-f16a448171aa": {
+    "url": "db://assets/resources/texture/weapon/weapon1/attack/attack (1).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "547581ee-f0ef-4cc0-a168-1a821008dc00@f9941": {
+    "url": "db://assets/resources/texture/actor/actor2/run/run (3).png@f9941",
+    "value": {
+      "depends": [
+        "547581ee-f0ef-4cc0-a168-1a821008dc00@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "d66a025a-0288-4cc4-88dd-7e3f5d75feef": {
+    "url": "db://assets/resources/texture/weapon/weapon1/attack/attack (2).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "0ce683e1-3afe-44ff-b24f-0be7ae40e49a@6c48a": {
+    "url": "db://assets/resources/texture/actor/actor2/run/run (6).png@6c48a",
+    "value": {
+      "depends": [
+        "0ce683e1-3afe-44ff-b24f-0be7ae40e49a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ba54e885-1a08-47f1-b009-83b2763e209c@f9941": {
+    "url": "db://assets/resources/texture/actor/actor2/run/run (5).png@f9941",
+    "value": {
+      "depends": [
+        "ba54e885-1a08-47f1-b009-83b2763e209c@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "2f8cf8e1-92d9-422b-9ccb-444e0d7578e5@f9941": {
+    "url": "db://assets/resources/texture/actor/actor2/run/run (4).png@f9941",
+    "value": {
+      "depends": [
+        "2f8cf8e1-92d9-422b-9ccb-444e0d7578e5@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "bb13c3df-251c-4b9b-a7e9-520ef89b6be6": {
+    "url": "db://assets/resources/texture/weapon/weapon1/attack/attack (3).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "717f9b68-fbe2-4f31-ac87-476fa2875f1e": {
+    "url": "db://assets/resources/texture/weapon/weapon1/attack/attack (4).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "0ce683e1-3afe-44ff-b24f-0be7ae40e49a@f9941": {
+    "url": "db://assets/resources/texture/actor/actor2/run/run (6).png@f9941",
+    "value": {
+      "depends": [
+        "0ce683e1-3afe-44ff-b24f-0be7ae40e49a@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ee283844-4937-4d21-9cb2-41e66321215a": {
+    "url": "db://assets/resources/texture/weapon/weapon1/attack/attack (5).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "2c2efb05-aaa7-4c95-8186-f16a448171aa@6c48a": {
+    "url": "db://assets/resources/texture/weapon/weapon1/attack/attack (1).png@6c48a",
+    "value": {
+      "depends": [
+        "2c2efb05-aaa7-4c95-8186-f16a448171aa"
+      ]
+    },
+    "versionCode": 1
+  },
+  "d66a025a-0288-4cc4-88dd-7e3f5d75feef@6c48a": {
+    "url": "db://assets/resources/texture/weapon/weapon1/attack/attack (2).png@6c48a",
+    "value": {
+      "depends": [
+        "d66a025a-0288-4cc4-88dd-7e3f5d75feef"
+      ]
+    },
+    "versionCode": 1
+  },
+  "bb13c3df-251c-4b9b-a7e9-520ef89b6be6@6c48a": {
+    "url": "db://assets/resources/texture/weapon/weapon1/attack/attack (3).png@6c48a",
+    "value": {
+      "depends": [
+        "bb13c3df-251c-4b9b-a7e9-520ef89b6be6"
+      ]
+    },
+    "versionCode": 1
+  },
+  "2c2efb05-aaa7-4c95-8186-f16a448171aa@f9941": {
+    "url": "db://assets/resources/texture/weapon/weapon1/attack/attack (1).png@f9941",
+    "value": {
+      "depends": [
+        "2c2efb05-aaa7-4c95-8186-f16a448171aa@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "438fb15a-1e67-4cea-b018-940687e073b4": {
+    "url": "db://assets/resources/texture/weapon/weapon1/attack/attack (6).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "717f9b68-fbe2-4f31-ac87-476fa2875f1e@6c48a": {
+    "url": "db://assets/resources/texture/weapon/weapon1/attack/attack (4).png@6c48a",
+    "value": {
+      "depends": [
+        "717f9b68-fbe2-4f31-ac87-476fa2875f1e"
+      ]
+    },
+    "versionCode": 1
+  },
+  "d66a025a-0288-4cc4-88dd-7e3f5d75feef@f9941": {
+    "url": "db://assets/resources/texture/weapon/weapon1/attack/attack (2).png@f9941",
+    "value": {
+      "depends": [
+        "d66a025a-0288-4cc4-88dd-7e3f5d75feef@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "05abc781-c414-41cf-8961-6a28a689e011": {
+    "url": "db://assets/resources/texture/weapon/weapon1/attack/attack (7).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "ee283844-4937-4d21-9cb2-41e66321215a@6c48a": {
+    "url": "db://assets/resources/texture/weapon/weapon1/attack/attack (5).png@6c48a",
+    "value": {
+      "depends": [
+        "ee283844-4937-4d21-9cb2-41e66321215a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "bb13c3df-251c-4b9b-a7e9-520ef89b6be6@f9941": {
+    "url": "db://assets/resources/texture/weapon/weapon1/attack/attack (3).png@f9941",
+    "value": {
+      "depends": [
+        "bb13c3df-251c-4b9b-a7e9-520ef89b6be6@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f815a77d-5654-4a6a-86ef-be8f1efaa95e": {
+    "url": "db://assets/resources/texture/weapon/weapon1/idle/idle (1).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "717f9b68-fbe2-4f31-ac87-476fa2875f1e@f9941": {
+    "url": "db://assets/resources/texture/weapon/weapon1/attack/attack (4).png@f9941",
+    "value": {
+      "depends": [
+        "717f9b68-fbe2-4f31-ac87-476fa2875f1e@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "b2fd4156-6559-4260-800e-fa0cc22a8d50": {
+    "url": "db://assets/resources/texture/weapon/weapon2/attack/attack (1).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "ee283844-4937-4d21-9cb2-41e66321215a@f9941": {
+    "url": "db://assets/resources/texture/weapon/weapon1/attack/attack (5).png@f9941",
+    "value": {
+      "depends": [
+        "ee283844-4937-4d21-9cb2-41e66321215a@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c981c147-7e05-464f-a119-287ba2173e76": {
+    "url": "db://assets/resources/texture/weapon/weapon2/attack/attack (2).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "438fb15a-1e67-4cea-b018-940687e073b4@6c48a": {
+    "url": "db://assets/resources/texture/weapon/weapon1/attack/attack (6).png@6c48a",
+    "value": {
+      "depends": [
+        "438fb15a-1e67-4cea-b018-940687e073b4"
+      ]
+    },
+    "versionCode": 1
+  },
+  "05abc781-c414-41cf-8961-6a28a689e011@6c48a": {
+    "url": "db://assets/resources/texture/weapon/weapon1/attack/attack (7).png@6c48a",
+    "value": {
+      "depends": [
+        "05abc781-c414-41cf-8961-6a28a689e011"
+      ]
+    },
+    "versionCode": 1
+  },
+  "438fb15a-1e67-4cea-b018-940687e073b4@f9941": {
+    "url": "db://assets/resources/texture/weapon/weapon1/attack/attack (6).png@f9941",
+    "value": {
+      "depends": [
+        "438fb15a-1e67-4cea-b018-940687e073b4@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "290e9ccf-fcf7-4de1-9fbd-087f099ff28a": {
+    "url": "db://assets/resources/texture/weapon/weapon2/attack/attack (3).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "f815a77d-5654-4a6a-86ef-be8f1efaa95e@6c48a": {
+    "url": "db://assets/resources/texture/weapon/weapon1/idle/idle (1).png@6c48a",
+    "value": {
+      "depends": [
+        "f815a77d-5654-4a6a-86ef-be8f1efaa95e"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c981c147-7e05-464f-a119-287ba2173e76@6c48a": {
+    "url": "db://assets/resources/texture/weapon/weapon2/attack/attack (2).png@6c48a",
+    "value": {
+      "depends": [
+        "c981c147-7e05-464f-a119-287ba2173e76"
+      ]
+    },
+    "versionCode": 1
+  },
+  "b2fd4156-6559-4260-800e-fa0cc22a8d50@6c48a": {
+    "url": "db://assets/resources/texture/weapon/weapon2/attack/attack (1).png@6c48a",
+    "value": {
+      "depends": [
+        "b2fd4156-6559-4260-800e-fa0cc22a8d50"
+      ]
+    },
+    "versionCode": 1
+  },
+  "05abc781-c414-41cf-8961-6a28a689e011@f9941": {
+    "url": "db://assets/resources/texture/weapon/weapon1/attack/attack (7).png@f9941",
+    "value": {
+      "depends": [
+        "05abc781-c414-41cf-8961-6a28a689e011@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "57693857-efef-407b-b05a-3fa03e2c15a1": {
+    "url": "db://assets/resources/texture/weapon/weapon2/attack/attack (4).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "b2fd4156-6559-4260-800e-fa0cc22a8d50@f9941": {
+    "url": "db://assets/resources/texture/weapon/weapon2/attack/attack (1).png@f9941",
+    "value": {
+      "depends": [
+        "b2fd4156-6559-4260-800e-fa0cc22a8d50@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f815a77d-5654-4a6a-86ef-be8f1efaa95e@f9941": {
+    "url": "db://assets/resources/texture/weapon/weapon1/idle/idle (1).png@f9941",
+    "value": {
+      "depends": [
+        "f815a77d-5654-4a6a-86ef-be8f1efaa95e@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c981c147-7e05-464f-a119-287ba2173e76@f9941": {
+    "url": "db://assets/resources/texture/weapon/weapon2/attack/attack (2).png@f9941",
+    "value": {
+      "depends": [
+        "c981c147-7e05-464f-a119-287ba2173e76@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "037bbd7b-863b-458a-9e82-af4344212b37": {
+    "url": "db://assets/resources/texture/weapon/weapon2/attack/attack (5).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "fc7dd2b7-952e-4374-ae20-12b482325942": {
+    "url": "db://assets/resources/texture/weapon/weapon2/attack/attack (6).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "20184d5d-69fc-4bd1-9ba7-c556a212397d": {
+    "url": "db://assets/resources/texture/weapon/weapon2/attack/attack (7).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "290e9ccf-fcf7-4de1-9fbd-087f099ff28a@6c48a": {
+    "url": "db://assets/resources/texture/weapon/weapon2/attack/attack (3).png@6c48a",
+    "value": {
+      "depends": [
+        "290e9ccf-fcf7-4de1-9fbd-087f099ff28a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "57693857-efef-407b-b05a-3fa03e2c15a1@6c48a": {
+    "url": "db://assets/resources/texture/weapon/weapon2/attack/attack (4).png@6c48a",
+    "value": {
+      "depends": [
+        "57693857-efef-407b-b05a-3fa03e2c15a1"
+      ]
+    },
+    "versionCode": 1
+  },
+  "fc7dd2b7-952e-4374-ae20-12b482325942@6c48a": {
+    "url": "db://assets/resources/texture/weapon/weapon2/attack/attack (6).png@6c48a",
+    "value": {
+      "depends": [
+        "fc7dd2b7-952e-4374-ae20-12b482325942"
+      ]
+    },
+    "versionCode": 1
+  },
+  "20184d5d-69fc-4bd1-9ba7-c556a212397d@6c48a": {
+    "url": "db://assets/resources/texture/weapon/weapon2/attack/attack (7).png@6c48a",
+    "value": {
+      "depends": [
+        "20184d5d-69fc-4bd1-9ba7-c556a212397d"
+      ]
+    },
+    "versionCode": 1
+  },
+  "037bbd7b-863b-458a-9e82-af4344212b37@6c48a": {
+    "url": "db://assets/resources/texture/weapon/weapon2/attack/attack (5).png@6c48a",
+    "value": {
+      "depends": [
+        "037bbd7b-863b-458a-9e82-af4344212b37"
+      ]
+    },
+    "versionCode": 1
+  },
+  "290e9ccf-fcf7-4de1-9fbd-087f099ff28a@f9941": {
+    "url": "db://assets/resources/texture/weapon/weapon2/attack/attack (3).png@f9941",
+    "value": {
+      "depends": [
+        "290e9ccf-fcf7-4de1-9fbd-087f099ff28a@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "d6c248fd-c31d-475f-948a-be099aca55d3": {
+    "url": "db://assets/resources/texture/weapon/weapon2/idle/idle (1).png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "57693857-efef-407b-b05a-3fa03e2c15a1@f9941": {
+    "url": "db://assets/resources/texture/weapon/weapon2/attack/attack (4).png@f9941",
+    "value": {
+      "depends": [
+        "57693857-efef-407b-b05a-3fa03e2c15a1@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "fc7dd2b7-952e-4374-ae20-12b482325942@f9941": {
+    "url": "db://assets/resources/texture/weapon/weapon2/attack/attack (6).png@f9941",
+    "value": {
+      "depends": [
+        "fc7dd2b7-952e-4374-ae20-12b482325942@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "20184d5d-69fc-4bd1-9ba7-c556a212397d@f9941": {
+    "url": "db://assets/resources/texture/weapon/weapon2/attack/attack (7).png@f9941",
+    "value": {
+      "depends": [
+        "20184d5d-69fc-4bd1-9ba7-c556a212397d@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "037bbd7b-863b-458a-9e82-af4344212b37@f9941": {
+    "url": "db://assets/resources/texture/weapon/weapon2/attack/attack (5).png@f9941",
+    "value": {
+      "depends": [
+        "037bbd7b-863b-458a-9e82-af4344212b37@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "d6c248fd-c31d-475f-948a-be099aca55d3@6c48a": {
+    "url": "db://assets/resources/texture/weapon/weapon2/idle/idle (1).png@6c48a",
+    "value": {
+      "depends": [
+        "d6c248fd-c31d-475f-948a-be099aca55d3"
+      ]
+    },
+    "versionCode": 1
+  },
+  "d6c248fd-c31d-475f-948a-be099aca55d3@f9941": {
+    "url": "db://assets/resources/texture/weapon/weapon2/idle/idle (1).png@f9941",
+    "value": {
+      "depends": [
+        "d6c248fd-c31d-475f-948a-be099aca55d3@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "2a7bdf4b-b85b-43ee-b69d-7f801d03ca83": {
+    "url": "db://assets/Scripts/Common/index.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "8e37b6bc-ecf9-4b0a-888b-12996eb1e2f5": {
+    "url": "db://assets/Scripts/Common",
+    "value": {},
+    "versionCode": 1
+  },
+  "c09a1c34-e46c-496e-a2a4-0bb07e6ccc20": {
+    "url": "db://assets/Scene",
+    "value": {},
+    "versionCode": 1
+  },
+  "3adb0617-21c0-45fd-9b81-08373a7ecc72": {
+    "url": "db://assets/Scene/Battle.scene",
+    "value": {
+      "depends": [
+        "3adb0617-21c0-45fd-9b81-08373a7ecc72",
+        "155ebd7e-9357-4155-acfc-fb5438af3d48@f9941",
+        "c15456b3-2df6-44f1-bb74-5fec2d554675@f9941",
+        "f815a77d-5654-4a6a-86ef-be8f1efaa95e@f9941",
+        "f0f5e564-2d98-4de1-bb92-794eeb1acffc@f9941",
+        "0b523c5f-a18c-4e06-89b4-dc4b496250ad",
+        "d9e82fae-bcb5-4fed-82a9-fbed98c5e079@f9941"
+      ],
+      "dependScripts": [
+        "5adcb6f1-bc8f-4579-a870-c70e16397e98",
+        "CC3eba29-7abb-723a-f7ab-ae275e2277e8",
+        "6f6b94b6-3c9b-4c4c-8183-69d9a8bbbeca",
+        "bd4d4212-d7cb-4575-b530-e879d34176d1",
+        "0cf3c3b5-d102-47c3-a3b3-a90852010b3c"
+      ]
+    },
+    "versionCode": 1
+  },
+  "7c77faa9-bf22-43ce-a12f-6d91eca80d1a": {
+    "url": "db://assets/Scripts/UI",
+    "value": {},
+    "versionCode": 1
+  },
+  "6f6b94b6-3c9b-4c4c-8183-69d9a8bbbeca": {
+    "url": "db://assets/Scripts/UI/JoyStickManager.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "431a7992-a317-47b8-9e6d-528ff619257c": {
+    "url": "db://assets/Scripts/Common/Status.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "0cf3c3b5-d102-47c3-a3b3-a90852010b3c": {
+    "url": "db://assets/Scripts/Scene/BattleManager.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "86a8da75-de03-40dd-b371-a8e3a8310236": {
+    "url": "db://assets/Scripts/Entity",
+    "value": {},
+    "versionCode": 1
+  },
+  "b8348cfa-041f-4601-b256-e49f7c71cd93": {
+    "url": "db://assets/Scripts/Scene",
+    "value": {},
+    "versionCode": 1
+  },
+  "9e1a2faa-8c66-4784-bb1f-74dbe50cb153": {
+    "url": "db://assets/Scripts/Entity/Actor",
+    "value": {},
+    "versionCode": 1
+  },
+  "5adcb6f1-bc8f-4579-a870-c70e16397e98": {
+    "url": "db://assets/Scripts/Entity/Actor/ActorManager.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "5db658ce-cc24-4490-b8ff-a1ef9e5cee88": {
+    "url": "db://assets/Scripts/Common/Enum.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "e2e47af3-b8cc-43d7-bd63-050b5d9938ee": {
+    "url": "db://assets/Scripts/Controller/BattleController.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "cee232d5-876e-4b5b-a650-f31aa7e8bea6": {
+    "url": "db://assets/Scripts/Controller",
+    "value": {},
+    "versionCode": 1
+  },
+  "05d75b2b-af1b-49eb-831d-b424d9fe24d4": {
+    "url": "db://assets/resources/Prefab",
+    "value": {},
+    "versionCode": 1
+  },
+  "c4a1e010-f13c-4422-ab30-a0756e68d8b5": {
+    "url": "db://assets/resources/Prefab/Map.prefab",
+    "value": {
+      "depends": [
+        "155ebd7e-9357-4155-acfc-fb5438af3d48@f9941"
+      ],
+      "dependScripts": []
+    },
+    "versionCode": 1
+  },
+  "ba8d625f-fcce-4339-9e5b-09ffce681b83": {
+    "url": "db://assets/resources/Prefab/Actor.prefab",
+    "value": {
+      "depends": [
+        "24a704da-2867-446d-8d1a-5e920c75e09d@f9941",
+        "9fd900dd-221b-4f89-8f2c-fba34243c835@f9941",
+        "f0f5e564-2d98-4de1-bb92-794eeb1acffc@f9941"
+      ],
+      "dependScripts": []
+    },
+    "versionCode": 1
+  },
+  "c531d8fa-4451-4acd-b99f-f73fd31c6537": {
+    "url": "db://assets/auto-atlas.pac",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "4bba350a-1016-464e-8a4b-afcbe56b3d35": {
+    "url": "db://assets/Scripts/Entity/Actor/ActorStateMachine.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "c4348f66-4f61-4b49-8a4f-8c5ae2b1ec8b": {
+    "url": "db://assets/resources/Prefab/Weapon1.prefab",
+    "value": {
+      "depends": [
+        "f815a77d-5654-4a6a-86ef-be8f1efaa95e@f9941"
+      ],
+      "dependScripts": []
+    },
+    "versionCode": 1
+  },
+  "1f765748-d71c-404d-a63c-d6238b9501d5": {
+    "url": "db://assets/Scripts/Entity/Weapon/WeaponManager.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "caad405a-7290-40a8-ac30-f34001355ad1": {
+    "url": "db://assets/Scripts/Entity/Weapon/WeaponStateMachine.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "3b98caa0-e193-470e-9723-2ad0a95d60f6": {
+    "url": "db://assets/Scripts/Entity/Weapon",
+    "value": {},
+    "versionCode": 1
+  },
+  "bd4d4212-d7cb-4575-b530-e879d34176d1": {
+    "url": "db://assets/Scripts/Scene/ShootManager.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "5a7de3e5-7033-4354-90f7-5d43ea77b89a": {
+    "url": "db://assets/resources/Prefab/Bullet1.prefab",
+    "value": {
+      "depends": [
+        "23c36f17-b533-41fc-ada4-4c3408ec5597@f9941"
+      ],
+      "dependScripts": []
+    },
+    "versionCode": 1
+  },
+  "1fcb3445-9d92-4a3a-9272-ba8886fe6ac2": {
+    "url": "db://assets/resources/Prefab/Bullet2.prefab",
+    "value": {
+      "depends": [
+        "c15456b3-2df6-44f1-bb74-5fec2d554675@f9941"
+      ],
+      "dependScripts": []
+    },
+    "versionCode": 1
+  },
+  "d51330f3-c02c-4e74-af1a-645e3b294ed3": {
+    "url": "db://assets/Scripts/Entity/Bullet/BulletManager.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "0c702a68-4cdd-4b56-9835-d1c379c1bbaf": {
+    "url": "db://assets/Scripts/Entity/Bullet/BulletStateMachine.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "75f800bb-5cd9-4bb6-9513-4b39e97c8c68": {
+    "url": "db://assets/Scripts/Entity/Bullet",
+    "value": {},
+    "versionCode": 1
+  },
+  "0b523c5f-a18c-4e06-89b4-dc4b496250ad": {
+    "url": "db://assets/resources/Prefab/Explosion.prefab",
+    "value": {
+      "depends": [
+        "2c4e3bb3-7336-4d4e-a8d7-3eafa95d846f@f9941"
+      ],
+      "dependScripts": []
+    },
+    "versionCode": 1
+  },
+  "8e3dbd3a-e2d2-4787-b67a-b63c098a6d61": {
+    "url": "db://assets/Scripts/Entity/Explosion/ExplosionManager.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "24ae67c0-d8f7-4186-a3c9-f29ed75623bf": {
+    "url": "db://assets/Scripts/Entity/Explosion/ExplosionStateMachine.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "eac593ac-f413-4fc6-8d00-87682855390c": {
+    "url": "db://assets/Scripts/Entity/Explosion",
+    "value": {},
+    "versionCode": 1
+  },
+  "3876fad2-7fd0-463d-9d72-9b5d37360cf8": {
+    "url": "db://assets/Scripts/Global/ObjectPoolManager.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "1d80d40e-2fa9-47d3-ba72-731e6e64b28b": {
+    "url": "db://assets/Scripts/Global/NetworkManager.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "852749d0-3b77-4ac6-9e35-4b653b33c44d": {
+    "url": "db://assets/Scene/Login.scene",
+    "value": {
+      "depends": [
+        "852749d0-3b77-4ac6-9e35-4b653b33c44d",
+        "c4a1e010-f13c-4422-ab30-a0756e68d8b5",
+        "bd1bcaba-bd7d-4a71-b143-997c882383e4@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941"
+      ],
+      "dependScripts": [
+        "CC3eba29-7abb-723a-f7ab-ae275e2277e8",
+        "479f43a6-9baa-465e-ae50-4c2299d2e41f"
+      ]
+    },
+    "versionCode": 1
+  },
+  "479f43a6-9baa-465e-ae50-4c2299d2e41f": {
+    "url": "db://assets/Scripts/Scene/LoginManager.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "0157197d-1a9b-46a5-ada8-e0728f10fae0": {
+    "url": "db://assets/Scripts/Common/Api.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "6dc2ed6a-8922-4bbb-9003-f1140d75d55c": {
+    "url": "db://assets/Scripts/Common/IModel.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "4d52de00-d4f3-4223-b116-7a9438e37352": {
+    "url": "db://assets/Scripts/Common/Msg.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "ce16d558-6005-4ec4-98cb-1d40782e34c0": {
+    "url": "db://assets/Scene/Hall.scene",
+    "value": {
+      "depends": [
+        "ce16d558-6005-4ec4-98cb-1d40782e34c0",
+        "c4a1e010-f13c-4422-ab30-a0756e68d8b5",
+        "afc47931-f066-46b0-90be-9fe61f213428@f9941",
+        "ffb88a8f-af62-48f4-8f1d-3cb606443a43@f9941",
+        "9213efdf-92bc-4473-8615-519cce236ecb",
+        "b730527c-3233-41c2-aaf7-7cdab58f9749@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "706e8a33-2566-42d8-b06f-0c91d4828a65"
+      ],
+      "dependScripts": [
+        "CC3eba29-7abb-723a-f7ab-ae275e2277e8",
+        "b78a9c9b-e851-413f-ba0c-776f9e882116"
+      ]
+    },
+    "versionCode": 1
+  },
+  "9213efdf-92bc-4473-8615-519cce236ecb": {
+    "url": "db://assets/resources/Prefab/Player.prefab",
+    "value": {
+      "depends": [],
+      "dependScripts": [
+        "a425d1f1-056c-4f16-a9e8-d1cba751e93d"
+      ]
+    },
+    "versionCode": 1
+  },
+  "b78a9c9b-e851-413f-ba0c-776f9e882116": {
+    "url": "db://assets/Scripts/Scene/HallManager.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "a425d1f1-056c-4f16-a9e8-d1cba751e93d": {
+    "url": "db://assets/Scripts/UI/PlayerManager.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "cd46e8b9-cb83-40ae-b559-75bb6313b697": {
+    "url": "db://assets/Scene/Room.scene",
+    "value": {
+      "depends": [
+        "cd46e8b9-cb83-40ae-b559-75bb6313b697",
+        "c4a1e010-f13c-4422-ab30-a0756e68d8b5",
+        "afc47931-f066-46b0-90be-9fe61f213428@f9941",
+        "ffb88a8f-af62-48f4-8f1d-3cb606443a43@f9941",
+        "b730527c-3233-41c2-aaf7-7cdab58f9749@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "9213efdf-92bc-4473-8615-519cce236ecb"
+      ],
+      "dependScripts": [
+        "CC3eba29-7abb-723a-f7ab-ae275e2277e8",
+        "7785d8fd-c8fa-4057-b386-43d818ea5e6a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "d1ef36c6-d8d2-4926-a7d1-daacd85d0f9c": {
+    "url": "db://assets/Scripts/UI/RoomManager.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "706e8a33-2566-42d8-b06f-0c91d4828a65": {
+    "url": "db://assets/resources/Prefab/Room.prefab",
+    "value": {
+      "depends": [],
+      "dependScripts": [
+        "d1ef36c6-d8d2-4926-a7d1-daacd85d0f9c"
+      ]
+    },
+    "versionCode": 1
+  },
+  "7785d8fd-c8fa-4057-b386-43d818ea5e6a": {
+    "url": "db://assets/Scripts/Scene/RoomManager.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "1e24b78b-b299-461c-b28f-50c904e709c6": {
+    "url": "db://assets/Scripts/Common/Util.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "be7a67d0-54b8-400a-8980-ed92505ff331": {
+    "url": "db://assets/Explosion.json",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  }
+}

@@ -1,0 +1,16 @@
+2026-2-25 02:09:32 - log: Load engine in C:\ProgramData\cocos\editors\Creator\3.8.7\resources\resources\3d\engine
+2026-2-25 02:09:32 - log: Register native engine in C:\ProgramData\cocos\editors\Creator\3.8.7\resources\resources\3d\engine\native
+2026-2-25 02:09:33 - log: Request namespace: device-list
+2026-2-25 02:09:37 - info: [Window] Download the Vue Devtools extension for a better development experience:
+https://github.com/vuejs/vue-devtools
+2026-2-25 02:09:37 - info: [Window] You are running Vue in development mode.
+Make sure to turn on production mode when deploying for production.
+See more tips at https://vuejs.org/guide/deployment.html
+2026-2-25 02:09:38 - info: [PreviewInEditor] 预览环境初始化完毕
+2026-2-25 02:09:46 - error: [Assets] ENOENT: no such file or directory, stat 'D:\CocosProject\cocos-nodejs-demo\apps\client\assets\Scripts\Common'Error: ENOENT: no such file or directory, stat 'D:\CocosProject\cocos-nodejs-demo\apps\client\assets\Scripts\Common'
+    at statSync (node:fs:1665:25)
+    at Object.t.statSync (node:electron/js2c/node_init:2:5397)
+    at C:\ProgramData\cocos\editors\Creator\3.8.7\resources\app.asar\node_modules\graceful-fs\polyfills.js:319:16
+    at AssetDB._checkAssetsStatSync (C:\ProgramData\cocos\editors\Creator\3.8.7\resources\app.asar\node_modules\@editor\asset-db\libs\asset-db.ccc:1:12199)
+    at AssetDB.refresh (C:\ProgramData\cocos\editors\Creator\3.8.7\resources\app.asar\node_modules\@editor\asset-db\libs\asset-db.ccc:1:9880)
+    at AssetDB.start (C:\ProgramData\cocos\editors\Creator\3.8.7\resources\app.asar\node_modules\@editor\asset-db\libs\asset-db.ccc:1:5008)
